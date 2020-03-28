@@ -4228,7 +4228,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
+ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -22669,116 +22669,116 @@ miscutils:itemCactusCharcoal, Cactus Charcoal
 miscutils:itemSugarCharcoal, Sugar Charcoal
 miscutils:itemCactusCoke, Cactus Coke
 miscutils:itemSugarCoke, Sugar Coke
-miscutils:itemCellGrisium, Grisium Cell
-miscutils:itemCellFrancium, Francium Cell
-miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
-miscutils:itemCellPlutonium239, Plutonium 239 Cell
-miscutils:itemCellTumbaga, Tumbaga Cell
-miscutils:itemCellUranium233, Uranium 233 Cell
-miscutils:itemCellStrontium90, Strontium 90 Cell
-miscutils:itemCellKoboldite, Koboldite Cell
 miscutils:itemCellHypogen, Hypogen Cell
-miscutils:itemCellSeleniousAcid, Selenious Acid Cell
-miscutils:itemCellHastelloyN, Hastelloy-N Cell
-miscutils:itemCellOctiron, Octiron Cell
-miscutils:itemCellTeflon, Teflon Cell
-miscutils:itemCellInconel690, Inconel-690 Cell
-miscutils:itemCellGermanium, Germanium Cell
-miscutils:itemCellFermium, Fermium Cell
-miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
-miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
-miscutils:itemCellTalonite, Talonite Cell
 miscutils:itemCellIncoloy020, Incoloy-020 Cell
-miscutils:itemCellBloodSteel, Blood Steel Cell
-miscutils:itemCellCinobiteA243, Cinobite A243 Cell
-miscutils:itemCellTechnetium, Technetium Cell
-miscutils:itemCellHastelloyX, Hastelloy-X Cell
-miscutils:itemCellCalifornium, Californium Cell
-miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
-miscutils:itemCellDragonblood, Dragonblood Cell
-miscutils:itemCellHastelloyW, Hastelloy-W Cell
-miscutils:itemCellPotin, Potin Cell
-miscutils:itemCellArceusAlloy2B, Arceus Alloy 2B Cell
-miscutils:itemCellBlackMetal, Black Metal Cell
-miscutils:itemCellTitansteel, Titansteel Cell
-miscutils:itemCellProtactinium, Protactinium Cell
-miscutils:itemCellEinsteinium, Einsteinium Cell
-miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
-miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
-miscutils:itemCellCelestialTungsten, Celestial Tungsten Cell
-miscutils:itemCellLafiumCompound, Lafium Compound Cell
-miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
-miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
-miscutils:itemCellUranium232, Uranium 232 Cell
-miscutils:itemCellWatertightSteel, Watertight Steel Cell
-miscutils:itemCellInconel625, Inconel-625 Cell
-miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
-miscutils:itemCellRhenium, Rhenium Cell
-miscutils:itemCellBakelite, Bakelite Cell
-miscutils:itemCellTantalloy61, Tantalloy-61 Cell
-miscutils:itemCellNitinol60, Nitinol 60 Cell
-miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
-miscutils:itemCellTantalloy60, Tantalloy-60 Cell
-miscutils:itemCellRadium, Radium Cell
-miscutils:itemCellCarbyne, Carbyne Cell
-miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
-miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
-miscutils:itemCellPolonium210, Polonium 210 Cell
-miscutils:itemCellQuantum, Quantum Cell
-miscutils:itemCellBerkelium, Berkelium Cell
-miscutils:itemCellRefinedTrinium, Refined Trinium Cell
-miscutils:itemCellActinium, Actinium Cell
 miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
-miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
-miscutils:itemCellZirconium, Zirconium Cell
-miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
-miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
-miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
-miscutils:itemCellArcanite, Arcanite Cell
-miscutils:itemCellNeon, Neon Cell
-miscutils:itemCellRuthenium, Ruthenium Cell
-miscutils:itemCellAstatine, Astatine Cell
-miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
-miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
-miscutils:itemCellEnergyCrystal, Energy Crystal Cell
-miscutils:itemCellCurium, Curium Cell
-miscutils:itemCellIncoloyDS, Incoloy-DS Cell
-miscutils:itemCellRhodium, Rhodium Cell
-miscutils:itemCellBlackTitanium, Black Titanium Cell
-miscutils:itemCellNeptunium, Neptunium Cell
-miscutils:itemCellInconel792, Inconel-792 Cell
-miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
-miscutils:itemCellChromaticGlass, Chromatic Glass Cell
-miscutils:itemCellSelenium, Selenium Cell
-miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
 miscutils:itemCellHG1223, HG-1223 Cell
-miscutils:itemCellWhiteMetal, White Metal Cell
-miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
-miscutils:itemCellNylon, Nylon Cell
-miscutils:itemCellAmericium241, Americium 241 Cell
-miscutils:itemCellAstralTitanium, Astral Titanium Cell
-miscutils:itemCellStellite, Stellite Cell
-miscutils:itemCellStaballoy, Staballoy Cell
-miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
-miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
-miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
-miscutils:itemCellThallium, Thallium Cell
+miscutils:itemCellAstatine, Astatine Cell
+miscutils:itemCellCinobiteA243, Cinobite A243 Cell
+miscutils:itemCellWatertightSteel, Watertight Steel Cell
+miscutils:itemCellRuthenium, Ruthenium Cell
+miscutils:itemCellBloodSteel, Blood Steel Cell
+miscutils:itemCellUranium233, Uranium 233 Cell
+miscutils:itemCellRhodium, Rhodium Cell
+miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
+miscutils:itemCellHastelloyW, Hastelloy-W Cell
 miscutils:itemCellPikyonium64B, Pikyonium 64B Cell
-miscutils:itemCellHafnium, Hafnium Cell
-miscutils:itemCellEglinSteel, Eglin Steel Cell
-miscutils:itemCellIodine, Iodine Cell
-miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
-miscutils:itemCellPlutonium238, Plutonium 238 Cell
-miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
-miscutils:itemCellZeron100, Zeron-100 Cell
-miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
+miscutils:itemCellRhenium, Rhenium Cell
+miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
+miscutils:itemCellTechnetium, Technetium Cell
+miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
+miscutils:itemCellTumbaga, Tumbaga Cell
+miscutils:itemCellArcanite, Arcanite Cell
+miscutils:itemCellInconel625, Inconel-625 Cell
+miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
+miscutils:itemCellTeflon, Teflon Cell
+miscutils:itemCellTalonite, Talonite Cell
+miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
+miscutils:itemCellInconel792, Inconel-792 Cell
+miscutils:itemCellZirconium, Zirconium Cell
+miscutils:itemCellFrancium, Francium Cell
+miscutils:itemCellStaballoy, Staballoy Cell
+miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
+miscutils:itemCellSelenium, Selenium Cell
+miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
+miscutils:itemCellTitansteel, Titansteel Cell
 miscutils:itemCellPolonium, Polonium Cell
-miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
-miscutils:itemCellRhugnor, Rhugnor Cell
 miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
-miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
-miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
+miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
+miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
+miscutils:itemCellDragonblood, Dragonblood Cell
+miscutils:itemCellCarbyne, Carbyne Cell
+miscutils:itemCellSeleniousAcid, Selenious Acid Cell
+miscutils:itemCellBlackMetal, Black Metal Cell
+miscutils:itemCellNeptunium, Neptunium Cell
+miscutils:itemCellCalifornium, Californium Cell
+miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
+miscutils:itemCellGermanium, Germanium Cell
+miscutils:itemCellAmericium241, Americium 241 Cell
+miscutils:itemCellUranium232, Uranium 232 Cell
+miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
+miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
+miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
+miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
+miscutils:itemCellAstralTitanium, Astral Titanium Cell
+miscutils:itemCellChromaticGlass, Chromatic Glass Cell
+miscutils:itemCellIncoloyDS, Incoloy-DS Cell
+miscutils:itemCellEinsteinium, Einsteinium Cell
+miscutils:itemCellRhugnor, Rhugnor Cell
+miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
+miscutils:itemCellIodine, Iodine Cell
+miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
+miscutils:itemCellHastelloyN, Hastelloy-N Cell
+miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
+miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
 miscutils:itemCellRunite, Runite Cell
+miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
+miscutils:itemCellBlackTitanium, Black Titanium Cell
+miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
+miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
+miscutils:itemCellActinium, Actinium Cell
+miscutils:itemCellQuantum, Quantum Cell
+miscutils:itemCellInconel690, Inconel-690 Cell
+miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
+miscutils:itemCellThallium, Thallium Cell
+miscutils:itemCellKoboldite, Koboldite Cell
+miscutils:itemCellPlutonium238, Plutonium 238 Cell
+miscutils:itemCellNylon, Nylon Cell
+miscutils:itemCellRadium, Radium Cell
+miscutils:itemCellBerkelium, Berkelium Cell
+miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
+miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
+miscutils:itemCellEglinSteel, Eglin Steel Cell
+miscutils:itemCellEnergyCrystal, Energy Crystal Cell
+miscutils:itemCellFermium, Fermium Cell
+miscutils:itemCellZeron100, Zeron-100 Cell
+miscutils:itemCellGrisium, Grisium Cell
+miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
+miscutils:itemCellPlutonium239, Plutonium 239 Cell
+miscutils:itemCellCelestialTungsten, Celestial Tungsten Cell
+miscutils:itemCellNitinol60, Nitinol 60 Cell
+miscutils:itemCellPolonium210, Polonium 210 Cell
+miscutils:itemCellTantalloy60, Tantalloy-60 Cell
+miscutils:itemCellPotin, Potin Cell
+miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
+miscutils:itemCellOctiron, Octiron Cell
+miscutils:itemCellRefinedTrinium, Refined Trinium Cell
+miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
+miscutils:itemCellCurium, Curium Cell
+miscutils:itemCellNeon, Neon Cell
+miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
+miscutils:itemCellHastelloyX, Hastelloy-X Cell
+miscutils:itemCellWhiteMetal, White Metal Cell
+miscutils:itemCellStrontium90, Strontium 90 Cell
+miscutils:itemCellStellite, Stellite Cell
+miscutils:itemCellBakelite, Bakelite Cell
+miscutils:itemCellProtactinium, Protactinium Cell
+miscutils:itemCellTantalloy61, Tantalloy-61 Cell
+miscutils:itemCellHafnium, Hafnium Cell
+miscutils:itemCellLafiumCompound, Lafium Compound Cell
+miscutils:itemCellArceusAlloy2B, Arceus Alloy 2B Cell
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:0, §dUltra Low Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:1, §dLow Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:2, §dMedium Voltage Machine Plate Cover
