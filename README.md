@@ -8,8 +8,8 @@ Credit for all mods go to their respective owners.
 
  Verzeichnis von C:\Users\sxlga\AppData\Roaming\Schrecktech-Reborn\Mods
 
-AIImprovements-1.7.10-0.0.1b8
-AppleCore-mc1.7.10-3.1.1
+AIImprovements-1.7.10-0.0.1b8 /n
+AppleCore-mc1.7.10-3.1.1 /n
 appliedenergistics2-rv3-beta-6
 ArchitectureCraft-1.7.2-mc1.7.10
 Aroma1997Core-1.7.10-1.0.2.16
