@@ -23,7 +23,7 @@ updateLog.txt
 usernamecache.json
 optionsof.txt
 options.txt
-World/*
+World*
 server.properties
 minecraft_server*
 forge*
@@ -34,3 +34,4 @@ ops.json
 startup.bat
 banned-ips.json
 banned-players.json
+.github
