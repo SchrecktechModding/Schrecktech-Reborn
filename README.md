@@ -124,4 +124,4 @@ ForgeMultipart-1.7.10-1.2.0.347-universal\
 MrTJPCore-1.7.10-1.1.0.33-universal\
 YuutoLib-1.7.10-1.0.3\
 [1.7.10]bspkrsCore-universal-6.16\
-EJML-core-0.26\
+EJML-core-0.26
