@@ -78,7 +78,7 @@ Neat+1.0-1 : https://www.curseforge.com/minecraft/mc-mods/neat \
 netherportalfix-mc1.7.10-1.1.0 : https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files \
 NoMoreRecipeConflict-0.3(1.7.10) : https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict \
 NotEnoughIDs-1.4.3.4 : https://www.curseforge.com/minecraft/mc-mods/notenoughids \
-NotEnoughItems-1.7.10-1.0.5.120-universal : \
+NotEnoughItems-1.7.10-1.0.5.120-universal : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1279956-chickenbones-mods \
 NotEnoughKeys-1.7.10-3.0.0b45-dev-universal : https://www.curseforge.com/minecraft/mc-mods/notenoughkeys \
 NotEnoughResources-1.7.10-0.1.0-128 : https://www.curseforge.com/minecraft/mc-mods/notenoughresources/files \
 OpenBlocks-1.7.10-1.6 : https://www.curseforge.com/minecraft/mc-mods/openblocks \
