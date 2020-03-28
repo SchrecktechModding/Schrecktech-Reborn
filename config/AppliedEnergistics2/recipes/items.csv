@@ -1973,19 +1973,13 @@ Railcraft:cube:7, Quarried Stone
 Railcraft:anvil:0, Steel Anvil
 Railcraft:anvil:1, Slightly Damaged Anvil
 Railcraft:anvil:2, Very Damaged Anvil
-Railcraft:machine.alpha:7, Coke Oven Brick
-Railcraft:machine.alpha:12, Blast Furnace Brick
 Railcraft:machine.alpha:3, Steam Oven
 Railcraft:machine.alpha:14, Water Tank Siding
-Railcraft:machine.alpha:8, Rolling Machine
-Railcraft:machine.alpha:15, Rock Crusher
 Railcraft:machine.alpha:11, Feed Station
 Railcraft:machine.alpha:6, Trade Station
-Railcraft:machine.alpha:0, World Anchor
 Railcraft:machine.alpha:2, Personal Anchor
 Railcraft:machine.alpha:13, Passive Anchor
 Railcraft:machine.alpha:4, Admin Anchor
-Railcraft:machine.alpha:1, Steam Turbine Housing
 Railcraft:machine.alpha:5, Smoker
 Railcraft:machine.alpha:9, Manual Steam Trap
 Railcraft:machine.alpha:10, Automated Steam Trap
@@ -1995,13 +1989,6 @@ Railcraft:machine.beta:2, Iron Tank Valve
 Railcraft:machine.beta:13, Steel Tank Wall
 Railcraft:machine.beta:14, Steel Tank Gauge
 Railcraft:machine.beta:15, Steel Tank Valve
-Railcraft:machine.beta:5, Solid Fueled Boiler Firebox
-Railcraft:machine.beta:6, Liquid Fueled Boiler Firebox
-Railcraft:machine.beta:3, Low Pressure Boiler Tank
-Railcraft:machine.beta:4, High Pressure Boiler Tank
-Railcraft:machine.beta:7, Hobbyist's Steam Engine
-Railcraft:machine.beta:8, Commercial Steam Engine
-Railcraft:machine.beta:9, Industrial Steam Engine
 Railcraft:machine.beta:10, Anchor Sentinel
 Railcraft:machine.beta:11, Void Chest
 Railcraft:machine.beta:12, Metals Chest
@@ -2197,17 +2184,6 @@ Railcraft:machine.epsilon:4, Flux Transformer
 Railcraft:machine.epsilon:3, Force Track Emitter
 Railcraft:machine.epsilon:2, Admin Steam Producer
 Railcraft:machine.epsilon:5, Engraving Bench
-Railcraft:ore:0, Sulfur Ore
-Railcraft:ore:1, Saltpeter Ore
-Railcraft:ore:2, Dark Diamond Ore
-Railcraft:ore:3, Dark Emerald Ore
-Railcraft:ore:4, Dark Lapis Lazuli Ore
-Railcraft:ore:5, Firestone Ore
-Railcraft:ore:7, Poor Iron Ore
-Railcraft:ore:8, Poor Gold Ore
-Railcraft:ore:9, Poor Copper Ore
-Railcraft:ore:10, Poor Tin Ore
-Railcraft:ore:11, Poor Lead Ore
 Railcraft:worldlogic, Saltpeter Ore Spawner
 Railcraft:firestone.recharge, Recharging Firestone
 Railcraft:frame, Wire Support Frame
@@ -4228,7 +4204,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -8013,17 +7989,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Strengthened Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Strengthened Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Strengthened Glass
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Strengthened Glass
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Sulfur Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Saltpeter Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Diamond Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Emerald Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Lapis Lazuli Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Firestone Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Iron Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Gold Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Copper Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Tin Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Lead Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Aluminum
@@ -11478,12 +11443,6 @@ Railcraft:armor.goggles, Trackman's Goggles
 Railcraft:part.circuit:0, Controller Circuit
 Railcraft:part.circuit:1, Receiver Circuit
 Railcraft:part.circuit:2, Signal Circuit
-Railcraft:tool.steel.shears, Steel Shears
-Railcraft:tool.steel.sword, Steel Sword
-Railcraft:tool.steel.shovel, Steel Shovel
-Railcraft:tool.steel.pickaxe, Steel Pickaxe
-Railcraft:tool.steel.axe, Steel Axe
-Railcraft:tool.steel.hoe, Steel Hoe
 Railcraft:armor.steel.helmet, Steel Helmet
 Railcraft:armor.steel.plate, Steel Chestplate
 Railcraft:armor.steel.legs, Steel Leggings
@@ -11515,10 +11474,6 @@ Railcraft:part.plate:1, Steel Plate
 Railcraft:part.plate:2, Tin Plate
 Railcraft:part.plate:3, Copper Plate
 Railcraft:part.plate:4, Lead Plate
-Railcraft:dust:0, Obsidian Dust
-Railcraft:dust:1, Sulfur
-Railcraft:dust:2, Saltpeter
-Railcraft:dust:3, Charcoal Dust
 Railcraft:part.gear:0, Gold-Plate Gear
 Railcraft:part.gear:1, Iron Gear
 Railcraft:part.gear:2, Steel Gear
@@ -11545,7 +11500,6 @@ Railcraft:upgrade.lapotron, item.railcraft.upgrade.lapotron.name
 Railcraft:cart.energy.batbox:0, Batbox Cart
 Railcraft:cart.energy.mfe:0, MFE Cart
 Railcraft:cart.energy.cesu:0, CESU Cart
-Railcraft:cart.anchor:0, Anchor Cart
 Railcraft:cart.anchor.personal:0, Personal Anchor Cart
 Railcraft:cart.anchor.admin:0, Admin Anchor Cart
 Railcraft:cart.pumpkin:0, Pumpkin Cart
@@ -11560,9 +11514,6 @@ Railcraft:firestone.cut, Cut Firestone
 Railcraft:firestone.refined, Refined Firestone
 Railcraft:firestone.cracked, Cracked Firestone
 Railcraft:tool.electric.meter, Electric Meter
-Railcraft:part.turbine.rotor, Turbine Rotor
-Railcraft:part.turbine.disk, Turbine Disk
-Railcraft:part.turbine.blade, Turbine Blade
 Railcraft:cart.redstone.flux:0, Redstone Flux Cart
 chisel:upgrade:0, Speed Upgrade.name
 chisel:upgrade:1, Automation Upgrade.name
@@ -13371,14 +13322,6 @@ TConstruct:BoltPart:1634, HSS-G Bolt
 TConstruct:BoltPart:1635, HSS-E Bolt
 TConstruct:BoltPart:1636, HSS-S Bolt
 TConstruct:BoltPart:1637, Fiber-Reinforced Epoxy Resin Bolt
-TConstruct:BoltPart:1638, Cobalt Bolt
-TConstruct:BoltPart:1639, Iron Bolt
-TConstruct:BoltPart:1640, Stone Bolt
-TConstruct:BoltPart:1641, Bronze Bolt
-TConstruct:BoltPart:1642, Pig Iron Bolt
-TConstruct:BoltPart:1643, Steel Bolt
-TConstruct:BoltPart:1644, Wood Bolt
-TConstruct:BoltPart:1645, Flint Bolt
 TConstruct:BoltPart:1500, Aluminium Bolt
 TConstruct:BoltPart:1501, Beryllium Bolt
 TConstruct:BoltPart:1502, Bismuth Bolt
@@ -16376,10 +16319,8 @@ TGregworks:tGregToolPartPickaxeHead:1501, Beryllium Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1502, Bismuth Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1503, Carbon Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1504, Chrome Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1638, Cobalt Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1505, Gold Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1506, Iridium Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1639, Iron Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1507, Lead Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1508, Manganese Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1509, Molybdenum Pickaxe Head
@@ -16441,11 +16382,9 @@ TGregworks:tGregToolPartPickaxeHead:1564, Prometheum Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1565, Tritanium Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1566, Vulcanite Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1567, Vyroxeres Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1640, Stone Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1568, Osmiridium Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1569, Blue Topaz Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1570, Brass Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1641, Bronze Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1571, Cupronickel Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1572, Deep Iron Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1573, Diamond Pickaxe Head
@@ -16456,7 +16395,6 @@ TGregworks:tGregToolPartPickaxeHead:1577, Invar Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1578, Kanthal Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1579, Magnalium Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1580, Nichrome Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1642, Pig Iron Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1581, Polyethylene Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1582, Epoxy Resin Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1583, Silicone Rubber Pickaxe Head
@@ -16471,12 +16409,10 @@ TGregworks:tGregToolPartPickaxeHead:1591, Polystyrene Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1592, Styrene-Butadiene Rubber Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1593, Polyvinyl Chloride Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1594, Stainless Steel Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1643, Steel Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1595, Tanzanite Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1596, Tin Alloy Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1597, Topaz Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1598, Ultimet Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1644, Wood Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1599, Wrought Iron Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1600, Sealed Wood Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1601, Ironwood Pickaxe Head
@@ -16484,7 +16420,6 @@ TGregworks:tGregToolPartPickaxeHead:1602, Olivine Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1603, Opal Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1604, Amethyst Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1605, Blaze Pickaxe Head
-TGregworks:tGregToolPartPickaxeHead:1645, Flint Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1606, Shadowiron Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1607, Shadowsteel Pickaxe Head
 TGregworks:tGregToolPartPickaxeHead:1608, Steeleaf Pickaxe Head
@@ -16522,10 +16457,8 @@ TGregworks:tGregToolPartShovelHead:1501, Beryllium Shovel Head
 TGregworks:tGregToolPartShovelHead:1502, Bismuth Shovel Head
 TGregworks:tGregToolPartShovelHead:1503, Carbon Shovel Head
 TGregworks:tGregToolPartShovelHead:1504, Chrome Shovel Head
-TGregworks:tGregToolPartShovelHead:1638, Cobalt Shovel Head
 TGregworks:tGregToolPartShovelHead:1505, Gold Shovel Head
 TGregworks:tGregToolPartShovelHead:1506, Iridium Shovel Head
-TGregworks:tGregToolPartShovelHead:1639, Iron Shovel Head
 TGregworks:tGregToolPartShovelHead:1507, Lead Shovel Head
 TGregworks:tGregToolPartShovelHead:1508, Manganese Shovel Head
 TGregworks:tGregToolPartShovelHead:1509, Molybdenum Shovel Head
@@ -16587,11 +16520,9 @@ TGregworks:tGregToolPartShovelHead:1564, Prometheum Shovel Head
 TGregworks:tGregToolPartShovelHead:1565, Tritanium Shovel Head
 TGregworks:tGregToolPartShovelHead:1566, Vulcanite Shovel Head
 TGregworks:tGregToolPartShovelHead:1567, Vyroxeres Shovel Head
-TGregworks:tGregToolPartShovelHead:1640, Stone Shovel Head
 TGregworks:tGregToolPartShovelHead:1568, Osmiridium Shovel Head
 TGregworks:tGregToolPartShovelHead:1569, Blue Topaz Shovel Head
 TGregworks:tGregToolPartShovelHead:1570, Brass Shovel Head
-TGregworks:tGregToolPartShovelHead:1641, Bronze Shovel Head
 TGregworks:tGregToolPartShovelHead:1571, Cupronickel Shovel Head
 TGregworks:tGregToolPartShovelHead:1572, Deep Iron Shovel Head
 TGregworks:tGregToolPartShovelHead:1573, Diamond Shovel Head
@@ -16602,7 +16533,6 @@ TGregworks:tGregToolPartShovelHead:1577, Invar Shovel Head
 TGregworks:tGregToolPartShovelHead:1578, Kanthal Shovel Head
 TGregworks:tGregToolPartShovelHead:1579, Magnalium Shovel Head
 TGregworks:tGregToolPartShovelHead:1580, Nichrome Shovel Head
-TGregworks:tGregToolPartShovelHead:1642, Pig Iron Shovel Head
 TGregworks:tGregToolPartShovelHead:1581, Polyethylene Shovel Head
 TGregworks:tGregToolPartShovelHead:1582, Epoxy Resin Shovel Head
 TGregworks:tGregToolPartShovelHead:1583, Silicone Rubber Shovel Head
@@ -16617,12 +16547,10 @@ TGregworks:tGregToolPartShovelHead:1591, Polystyrene Shovel Head
 TGregworks:tGregToolPartShovelHead:1592, Styrene-Butadiene Rubber Shovel Head
 TGregworks:tGregToolPartShovelHead:1593, Polyvinyl Chloride Shovel Head
 TGregworks:tGregToolPartShovelHead:1594, Stainless Steel Shovel Head
-TGregworks:tGregToolPartShovelHead:1643, Steel Shovel Head
 TGregworks:tGregToolPartShovelHead:1595, Tanzanite Shovel Head
 TGregworks:tGregToolPartShovelHead:1596, Tin Alloy Shovel Head
 TGregworks:tGregToolPartShovelHead:1597, Topaz Shovel Head
 TGregworks:tGregToolPartShovelHead:1598, Ultimet Shovel Head
-TGregworks:tGregToolPartShovelHead:1644, Wood Shovel Head
 TGregworks:tGregToolPartShovelHead:1599, Wrought Iron Shovel Head
 TGregworks:tGregToolPartShovelHead:1600, Sealed Wood Shovel Head
 TGregworks:tGregToolPartShovelHead:1601, Ironwood Shovel Head
@@ -16630,7 +16558,6 @@ TGregworks:tGregToolPartShovelHead:1602, Olivine Shovel Head
 TGregworks:tGregToolPartShovelHead:1603, Opal Shovel Head
 TGregworks:tGregToolPartShovelHead:1604, Amethyst Shovel Head
 TGregworks:tGregToolPartShovelHead:1605, Blaze Shovel Head
-TGregworks:tGregToolPartShovelHead:1645, Flint Shovel Head
 TGregworks:tGregToolPartShovelHead:1606, Shadowiron Shovel Head
 TGregworks:tGregToolPartShovelHead:1607, Shadowsteel Shovel Head
 TGregworks:tGregToolPartShovelHead:1608, Steeleaf Shovel Head
@@ -16668,10 +16595,8 @@ TGregworks:tGregToolPartAxeHead:1501, Beryllium Axe Head
 TGregworks:tGregToolPartAxeHead:1502, Bismuth Axe Head
 TGregworks:tGregToolPartAxeHead:1503, Carbon Axe Head
 TGregworks:tGregToolPartAxeHead:1504, Chrome Axe Head
-TGregworks:tGregToolPartAxeHead:1638, Cobalt Axe Head
 TGregworks:tGregToolPartAxeHead:1505, Gold Axe Head
 TGregworks:tGregToolPartAxeHead:1506, Iridium Axe Head
-TGregworks:tGregToolPartAxeHead:1639, Iron Axe Head
 TGregworks:tGregToolPartAxeHead:1507, Lead Axe Head
 TGregworks:tGregToolPartAxeHead:1508, Manganese Axe Head
 TGregworks:tGregToolPartAxeHead:1509, Molybdenum Axe Head
@@ -16733,11 +16658,9 @@ TGregworks:tGregToolPartAxeHead:1564, Prometheum Axe Head
 TGregworks:tGregToolPartAxeHead:1565, Tritanium Axe Head
 TGregworks:tGregToolPartAxeHead:1566, Vulcanite Axe Head
 TGregworks:tGregToolPartAxeHead:1567, Vyroxeres Axe Head
-TGregworks:tGregToolPartAxeHead:1640, Stone Axe Head
 TGregworks:tGregToolPartAxeHead:1568, Osmiridium Axe Head
 TGregworks:tGregToolPartAxeHead:1569, Blue Topaz Axe Head
 TGregworks:tGregToolPartAxeHead:1570, Brass Axe Head
-TGregworks:tGregToolPartAxeHead:1641, Bronze Axe Head
 TGregworks:tGregToolPartAxeHead:1571, Cupronickel Axe Head
 TGregworks:tGregToolPartAxeHead:1572, Deep Iron Axe Head
 TGregworks:tGregToolPartAxeHead:1573, Diamond Axe Head
@@ -16748,7 +16671,6 @@ TGregworks:tGregToolPartAxeHead:1577, Invar Axe Head
 TGregworks:tGregToolPartAxeHead:1578, Kanthal Axe Head
 TGregworks:tGregToolPartAxeHead:1579, Magnalium Axe Head
 TGregworks:tGregToolPartAxeHead:1580, Nichrome Axe Head
-TGregworks:tGregToolPartAxeHead:1642, Pig Iron Axe Head
 TGregworks:tGregToolPartAxeHead:1581, Polyethylene Axe Head
 TGregworks:tGregToolPartAxeHead:1582, Epoxy Resin Axe Head
 TGregworks:tGregToolPartAxeHead:1583, Silicone Rubber Axe Head
@@ -16763,12 +16685,10 @@ TGregworks:tGregToolPartAxeHead:1591, Polystyrene Axe Head
 TGregworks:tGregToolPartAxeHead:1592, Styrene-Butadiene Rubber Axe Head
 TGregworks:tGregToolPartAxeHead:1593, Polyvinyl Chloride Axe Head
 TGregworks:tGregToolPartAxeHead:1594, Stainless Steel Axe Head
-TGregworks:tGregToolPartAxeHead:1643, Steel Axe Head
 TGregworks:tGregToolPartAxeHead:1595, Tanzanite Axe Head
 TGregworks:tGregToolPartAxeHead:1596, Tin Alloy Axe Head
 TGregworks:tGregToolPartAxeHead:1597, Topaz Axe Head
 TGregworks:tGregToolPartAxeHead:1598, Ultimet Axe Head
-TGregworks:tGregToolPartAxeHead:1644, Wood Axe Head
 TGregworks:tGregToolPartAxeHead:1599, Wrought Iron Axe Head
 TGregworks:tGregToolPartAxeHead:1600, Sealed Wood Axe Head
 TGregworks:tGregToolPartAxeHead:1601, Ironwood Axe Head
@@ -16776,7 +16696,6 @@ TGregworks:tGregToolPartAxeHead:1602, Olivine Axe Head
 TGregworks:tGregToolPartAxeHead:1603, Opal Axe Head
 TGregworks:tGregToolPartAxeHead:1604, Amethyst Axe Head
 TGregworks:tGregToolPartAxeHead:1605, Blaze Axe Head
-TGregworks:tGregToolPartAxeHead:1645, Flint Axe Head
 TGregworks:tGregToolPartAxeHead:1606, Shadowiron Axe Head
 TGregworks:tGregToolPartAxeHead:1607, Shadowsteel Axe Head
 TGregworks:tGregToolPartAxeHead:1608, Steeleaf Axe Head
@@ -16814,10 +16733,8 @@ TGregworks:tGregToolPartBinding:1501, Beryllium Tool Binding
 TGregworks:tGregToolPartBinding:1502, Bismuth Tool Binding
 TGregworks:tGregToolPartBinding:1503, Carbon Tool Binding
 TGregworks:tGregToolPartBinding:1504, Chrome Tool Binding
-TGregworks:tGregToolPartBinding:1638, Cobalt Tool Binding
 TGregworks:tGregToolPartBinding:1505, Gold Tool Binding
 TGregworks:tGregToolPartBinding:1506, Iridium Tool Binding
-TGregworks:tGregToolPartBinding:1639, Iron Tool Binding
 TGregworks:tGregToolPartBinding:1507, Lead Tool Binding
 TGregworks:tGregToolPartBinding:1508, Manganese Tool Binding
 TGregworks:tGregToolPartBinding:1509, Molybdenum Tool Binding
@@ -16879,11 +16796,9 @@ TGregworks:tGregToolPartBinding:1564, Prometheum Tool Binding
 TGregworks:tGregToolPartBinding:1565, Tritanium Tool Binding
 TGregworks:tGregToolPartBinding:1566, Vulcanite Tool Binding
 TGregworks:tGregToolPartBinding:1567, Vyroxeres Tool Binding
-TGregworks:tGregToolPartBinding:1640, Stone Tool Binding
 TGregworks:tGregToolPartBinding:1568, Osmiridium Tool Binding
 TGregworks:tGregToolPartBinding:1569, Blue Topaz Tool Binding
 TGregworks:tGregToolPartBinding:1570, Brass Tool Binding
-TGregworks:tGregToolPartBinding:1641, Bronze Tool Binding
 TGregworks:tGregToolPartBinding:1571, Cupronickel Tool Binding
 TGregworks:tGregToolPartBinding:1572, Deep Iron Tool Binding
 TGregworks:tGregToolPartBinding:1573, Diamond Tool Binding
@@ -16894,7 +16809,6 @@ TGregworks:tGregToolPartBinding:1577, Invar Tool Binding
 TGregworks:tGregToolPartBinding:1578, Kanthal Tool Binding
 TGregworks:tGregToolPartBinding:1579, Magnalium Tool Binding
 TGregworks:tGregToolPartBinding:1580, Nichrome Tool Binding
-TGregworks:tGregToolPartBinding:1642, Pig Iron Tool Binding
 TGregworks:tGregToolPartBinding:1581, Polyethylene Tool Binding
 TGregworks:tGregToolPartBinding:1582, Epoxy Resin Tool Binding
 TGregworks:tGregToolPartBinding:1583, Silicone Rubber Tool Binding
@@ -16909,12 +16823,10 @@ TGregworks:tGregToolPartBinding:1591, Polystyrene Tool Binding
 TGregworks:tGregToolPartBinding:1592, Styrene-Butadiene Rubber Tool Binding
 TGregworks:tGregToolPartBinding:1593, Polyvinyl Chloride Tool Binding
 TGregworks:tGregToolPartBinding:1594, Stainless Steel Tool Binding
-TGregworks:tGregToolPartBinding:1643, Steel Tool Binding
 TGregworks:tGregToolPartBinding:1595, Tanzanite Tool Binding
 TGregworks:tGregToolPartBinding:1596, Tin Alloy Tool Binding
 TGregworks:tGregToolPartBinding:1597, Topaz Tool Binding
 TGregworks:tGregToolPartBinding:1598, Ultimet Tool Binding
-TGregworks:tGregToolPartBinding:1644, Wood Tool Binding
 TGregworks:tGregToolPartBinding:1599, Wrought Iron Tool Binding
 TGregworks:tGregToolPartBinding:1600, Sealed Wood Tool Binding
 TGregworks:tGregToolPartBinding:1601, Ironwood Tool Binding
@@ -16922,7 +16834,6 @@ TGregworks:tGregToolPartBinding:1602, Olivine Tool Binding
 TGregworks:tGregToolPartBinding:1603, Opal Tool Binding
 TGregworks:tGregToolPartBinding:1604, Amethyst Tool Binding
 TGregworks:tGregToolPartBinding:1605, Blaze Tool Binding
-TGregworks:tGregToolPartBinding:1645, Flint Tool Binding
 TGregworks:tGregToolPartBinding:1606, Shadowiron Tool Binding
 TGregworks:tGregToolPartBinding:1607, Shadowsteel Tool Binding
 TGregworks:tGregToolPartBinding:1608, Steeleaf Tool Binding
@@ -16960,10 +16871,8 @@ TGregworks:tGregToolPartToughBind:1501, Beryllium Tough Binding
 TGregworks:tGregToolPartToughBind:1502, Bismuth Tough Binding
 TGregworks:tGregToolPartToughBind:1503, Carbon Tough Binding
 TGregworks:tGregToolPartToughBind:1504, Chrome Tough Binding
-TGregworks:tGregToolPartToughBind:1638, Cobalt Tough Binding
 TGregworks:tGregToolPartToughBind:1505, Gold Tough Binding
 TGregworks:tGregToolPartToughBind:1506, Iridium Tough Binding
-TGregworks:tGregToolPartToughBind:1639, Iron Tough Binding
 TGregworks:tGregToolPartToughBind:1507, Lead Tough Binding
 TGregworks:tGregToolPartToughBind:1508, Manganese Tough Binding
 TGregworks:tGregToolPartToughBind:1509, Molybdenum Tough Binding
@@ -17025,11 +16934,9 @@ TGregworks:tGregToolPartToughBind:1564, Prometheum Tough Binding
 TGregworks:tGregToolPartToughBind:1565, Tritanium Tough Binding
 TGregworks:tGregToolPartToughBind:1566, Vulcanite Tough Binding
 TGregworks:tGregToolPartToughBind:1567, Vyroxeres Tough Binding
-TGregworks:tGregToolPartToughBind:1640, Stone Tough Binding
 TGregworks:tGregToolPartToughBind:1568, Osmiridium Tough Binding
 TGregworks:tGregToolPartToughBind:1569, Blue Topaz Tough Binding
 TGregworks:tGregToolPartToughBind:1570, Brass Tough Binding
-TGregworks:tGregToolPartToughBind:1641, Bronze Tough Binding
 TGregworks:tGregToolPartToughBind:1571, Cupronickel Tough Binding
 TGregworks:tGregToolPartToughBind:1572, Deep Iron Tough Binding
 TGregworks:tGregToolPartToughBind:1573, Diamond Tough Binding
@@ -17040,7 +16947,6 @@ TGregworks:tGregToolPartToughBind:1577, Invar Tough Binding
 TGregworks:tGregToolPartToughBind:1578, Kanthal Tough Binding
 TGregworks:tGregToolPartToughBind:1579, Magnalium Tough Binding
 TGregworks:tGregToolPartToughBind:1580, Nichrome Tough Binding
-TGregworks:tGregToolPartToughBind:1642, Pig Iron Tough Binding
 TGregworks:tGregToolPartToughBind:1581, Polyethylene Tough Binding
 TGregworks:tGregToolPartToughBind:1582, Epoxy Resin Tough Binding
 TGregworks:tGregToolPartToughBind:1583, Silicone Rubber Tough Binding
@@ -17055,12 +16961,10 @@ TGregworks:tGregToolPartToughBind:1591, Polystyrene Tough Binding
 TGregworks:tGregToolPartToughBind:1592, Styrene-Butadiene Rubber Tough Binding
 TGregworks:tGregToolPartToughBind:1593, Polyvinyl Chloride Tough Binding
 TGregworks:tGregToolPartToughBind:1594, Stainless Steel Tough Binding
-TGregworks:tGregToolPartToughBind:1643, Steel Tough Binding
 TGregworks:tGregToolPartToughBind:1595, Tanzanite Tough Binding
 TGregworks:tGregToolPartToughBind:1596, Tin Alloy Tough Binding
 TGregworks:tGregToolPartToughBind:1597, Topaz Tough Binding
 TGregworks:tGregToolPartToughBind:1598, Ultimet Tough Binding
-TGregworks:tGregToolPartToughBind:1644, Wood Tough Binding
 TGregworks:tGregToolPartToughBind:1599, Wrought Iron Tough Binding
 TGregworks:tGregToolPartToughBind:1600, Sealed Wood Tough Binding
 TGregworks:tGregToolPartToughBind:1601, Ironwood Tough Binding
@@ -17068,7 +16972,6 @@ TGregworks:tGregToolPartToughBind:1602, Olivine Tough Binding
 TGregworks:tGregToolPartToughBind:1603, Opal Tough Binding
 TGregworks:tGregToolPartToughBind:1604, Amethyst Tough Binding
 TGregworks:tGregToolPartToughBind:1605, Blaze Tough Binding
-TGregworks:tGregToolPartToughBind:1645, Flint Tough Binding
 TGregworks:tGregToolPartToughBind:1606, Shadowiron Tough Binding
 TGregworks:tGregToolPartToughBind:1607, Shadowsteel Tough Binding
 TGregworks:tGregToolPartToughBind:1608, Steeleaf Tough Binding
@@ -17106,10 +17009,8 @@ TGregworks:tGregToolPartToolRod:1501, Beryllium Tool Rod
 TGregworks:tGregToolPartToolRod:1502, Bismuth Tool Rod
 TGregworks:tGregToolPartToolRod:1503, Carbon Tool Rod
 TGregworks:tGregToolPartToolRod:1504, Chrome Tool Rod
-TGregworks:tGregToolPartToolRod:1638, Cobalt Tool Rod
 TGregworks:tGregToolPartToolRod:1505, Gold Tool Rod
 TGregworks:tGregToolPartToolRod:1506, Iridium Tool Rod
-TGregworks:tGregToolPartToolRod:1639, Iron Tool Rod
 TGregworks:tGregToolPartToolRod:1507, Lead Tool Rod
 TGregworks:tGregToolPartToolRod:1508, Manganese Tool Rod
 TGregworks:tGregToolPartToolRod:1509, Molybdenum Tool Rod
@@ -17171,11 +17072,9 @@ TGregworks:tGregToolPartToolRod:1564, Prometheum Tool Rod
 TGregworks:tGregToolPartToolRod:1565, Tritanium Tool Rod
 TGregworks:tGregToolPartToolRod:1566, Vulcanite Tool Rod
 TGregworks:tGregToolPartToolRod:1567, Vyroxeres Tool Rod
-TGregworks:tGregToolPartToolRod:1640, Stone Tool Rod
 TGregworks:tGregToolPartToolRod:1568, Osmiridium Tool Rod
 TGregworks:tGregToolPartToolRod:1569, Blue Topaz Tool Rod
 TGregworks:tGregToolPartToolRod:1570, Brass Tool Rod
-TGregworks:tGregToolPartToolRod:1641, Bronze Tool Rod
 TGregworks:tGregToolPartToolRod:1571, Cupronickel Tool Rod
 TGregworks:tGregToolPartToolRod:1572, Deep Iron Tool Rod
 TGregworks:tGregToolPartToolRod:1573, Diamond Tool Rod
@@ -17186,7 +17085,6 @@ TGregworks:tGregToolPartToolRod:1577, Invar Tool Rod
 TGregworks:tGregToolPartToolRod:1578, Kanthal Tool Rod
 TGregworks:tGregToolPartToolRod:1579, Magnalium Tool Rod
 TGregworks:tGregToolPartToolRod:1580, Nichrome Tool Rod
-TGregworks:tGregToolPartToolRod:1642, Pig Iron Tool Rod
 TGregworks:tGregToolPartToolRod:1581, Polyethylene Tool Rod
 TGregworks:tGregToolPartToolRod:1582, Epoxy Resin Tool Rod
 TGregworks:tGregToolPartToolRod:1583, Silicone Rubber Tool Rod
@@ -17201,12 +17099,10 @@ TGregworks:tGregToolPartToolRod:1591, Polystyrene Tool Rod
 TGregworks:tGregToolPartToolRod:1592, Styrene-Butadiene Rubber Tool Rod
 TGregworks:tGregToolPartToolRod:1593, Polyvinyl Chloride Tool Rod
 TGregworks:tGregToolPartToolRod:1594, Stainless Steel Tool Rod
-TGregworks:tGregToolPartToolRod:1643, Steel Tool Rod
 TGregworks:tGregToolPartToolRod:1595, Tanzanite Tool Rod
 TGregworks:tGregToolPartToolRod:1596, Tin Alloy Tool Rod
 TGregworks:tGregToolPartToolRod:1597, Topaz Tool Rod
 TGregworks:tGregToolPartToolRod:1598, Ultimet Tool Rod
-TGregworks:tGregToolPartToolRod:1644, Wood Tool Rod
 TGregworks:tGregToolPartToolRod:1599, Wrought Iron Tool Rod
 TGregworks:tGregToolPartToolRod:1600, Sealed Wood Tool Rod
 TGregworks:tGregToolPartToolRod:1601, Ironwood Tool Rod
@@ -17214,7 +17110,6 @@ TGregworks:tGregToolPartToolRod:1602, Olivine Tool Rod
 TGregworks:tGregToolPartToolRod:1603, Opal Tool Rod
 TGregworks:tGregToolPartToolRod:1604, Amethyst Tool Rod
 TGregworks:tGregToolPartToolRod:1605, Blaze Tool Rod
-TGregworks:tGregToolPartToolRod:1645, Flint Tool Rod
 TGregworks:tGregToolPartToolRod:1606, Shadowiron Tool Rod
 TGregworks:tGregToolPartToolRod:1607, Shadowsteel Tool Rod
 TGregworks:tGregToolPartToolRod:1608, Steeleaf Tool Rod
@@ -17252,10 +17147,8 @@ TGregworks:tGregToolPartToughRod:1501, Beryllium Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1502, Bismuth Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1503, Carbon Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1504, Chrome Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1638, Cobalt Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1505, Gold Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1506, Iridium Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1639, Iron Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1507, Lead Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1508, Manganese Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1509, Molybdenum Tough Tool Rod
@@ -17317,11 +17210,9 @@ TGregworks:tGregToolPartToughRod:1564, Prometheum Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1565, Tritanium Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1566, Vulcanite Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1567, Vyroxeres Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1640, Stone Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1568, Osmiridium Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1569, Blue Topaz Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1570, Brass Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1641, Bronze Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1571, Cupronickel Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1572, Deep Iron Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1573, Diamond Tough Tool Rod
@@ -17332,7 +17223,6 @@ TGregworks:tGregToolPartToughRod:1577, Invar Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1578, Kanthal Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1579, Magnalium Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1580, Nichrome Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1642, Pig Iron Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1581, Polyethylene Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1582, Epoxy Resin Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1583, Silicone Rubber Tough Tool Rod
@@ -17347,12 +17237,10 @@ TGregworks:tGregToolPartToughRod:1591, Polystyrene Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1592, Styrene-Butadiene Rubber Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1593, Polyvinyl Chloride Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1594, Stainless Steel Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1643, Steel Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1595, Tanzanite Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1596, Tin Alloy Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1597, Topaz Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1598, Ultimet Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1644, Wood Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1599, Wrought Iron Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1600, Sealed Wood Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1601, Ironwood Tough Tool Rod
@@ -17360,7 +17248,6 @@ TGregworks:tGregToolPartToughRod:1602, Olivine Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1603, Opal Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1604, Amethyst Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1605, Blaze Tough Tool Rod
-TGregworks:tGregToolPartToughRod:1645, Flint Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1606, Shadowiron Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1607, Shadowsteel Tough Tool Rod
 TGregworks:tGregToolPartToughRod:1608, Steeleaf Tough Tool Rod
@@ -17398,10 +17285,8 @@ TGregworks:tGregToolPartLargePlate:1501, Beryllium Large Plate
 TGregworks:tGregToolPartLargePlate:1502, Bismuth Large Plate
 TGregworks:tGregToolPartLargePlate:1503, Carbon Large Plate
 TGregworks:tGregToolPartLargePlate:1504, Chrome Large Plate
-TGregworks:tGregToolPartLargePlate:1638, Cobalt Large Plate
 TGregworks:tGregToolPartLargePlate:1505, Gold Large Plate
 TGregworks:tGregToolPartLargePlate:1506, Iridium Large Plate
-TGregworks:tGregToolPartLargePlate:1639, Iron Large Plate
 TGregworks:tGregToolPartLargePlate:1507, Lead Large Plate
 TGregworks:tGregToolPartLargePlate:1508, Manganese Large Plate
 TGregworks:tGregToolPartLargePlate:1509, Molybdenum Large Plate
@@ -17463,11 +17348,9 @@ TGregworks:tGregToolPartLargePlate:1564, Prometheum Large Plate
 TGregworks:tGregToolPartLargePlate:1565, Tritanium Large Plate
 TGregworks:tGregToolPartLargePlate:1566, Vulcanite Large Plate
 TGregworks:tGregToolPartLargePlate:1567, Vyroxeres Large Plate
-TGregworks:tGregToolPartLargePlate:1640, Stone Large Plate
 TGregworks:tGregToolPartLargePlate:1568, Osmiridium Large Plate
 TGregworks:tGregToolPartLargePlate:1569, Blue Topaz Large Plate
 TGregworks:tGregToolPartLargePlate:1570, Brass Large Plate
-TGregworks:tGregToolPartLargePlate:1641, Bronze Large Plate
 TGregworks:tGregToolPartLargePlate:1571, Cupronickel Large Plate
 TGregworks:tGregToolPartLargePlate:1572, Deep Iron Large Plate
 TGregworks:tGregToolPartLargePlate:1573, Diamond Large Plate
@@ -17478,7 +17361,6 @@ TGregworks:tGregToolPartLargePlate:1577, Invar Large Plate
 TGregworks:tGregToolPartLargePlate:1578, Kanthal Large Plate
 TGregworks:tGregToolPartLargePlate:1579, Magnalium Large Plate
 TGregworks:tGregToolPartLargePlate:1580, Nichrome Large Plate
-TGregworks:tGregToolPartLargePlate:1642, Pig Iron Large Plate
 TGregworks:tGregToolPartLargePlate:1581, Polyethylene Large Plate
 TGregworks:tGregToolPartLargePlate:1582, Epoxy Resin Large Plate
 TGregworks:tGregToolPartLargePlate:1583, Silicone Rubber Large Plate
@@ -17493,12 +17375,10 @@ TGregworks:tGregToolPartLargePlate:1591, Polystyrene Large Plate
 TGregworks:tGregToolPartLargePlate:1592, Styrene-Butadiene Rubber Large Plate
 TGregworks:tGregToolPartLargePlate:1593, Polyvinyl Chloride Large Plate
 TGregworks:tGregToolPartLargePlate:1594, Stainless Steel Large Plate
-TGregworks:tGregToolPartLargePlate:1643, Steel Large Plate
 TGregworks:tGregToolPartLargePlate:1595, Tanzanite Large Plate
 TGregworks:tGregToolPartLargePlate:1596, Tin Alloy Large Plate
 TGregworks:tGregToolPartLargePlate:1597, Topaz Large Plate
 TGregworks:tGregToolPartLargePlate:1598, Ultimet Large Plate
-TGregworks:tGregToolPartLargePlate:1644, Wood Large Plate
 TGregworks:tGregToolPartLargePlate:1599, Wrought Iron Large Plate
 TGregworks:tGregToolPartLargePlate:1600, Sealed Wood Large Plate
 TGregworks:tGregToolPartLargePlate:1601, Ironwood Large Plate
@@ -17506,7 +17386,6 @@ TGregworks:tGregToolPartLargePlate:1602, Olivine Large Plate
 TGregworks:tGregToolPartLargePlate:1603, Opal Large Plate
 TGregworks:tGregToolPartLargePlate:1604, Amethyst Large Plate
 TGregworks:tGregToolPartLargePlate:1605, Blaze Large Plate
-TGregworks:tGregToolPartLargePlate:1645, Flint Large Plate
 TGregworks:tGregToolPartLargePlate:1606, Shadowiron Large Plate
 TGregworks:tGregToolPartLargePlate:1607, Shadowsteel Large Plate
 TGregworks:tGregToolPartLargePlate:1608, Steeleaf Large Plate
@@ -17544,10 +17423,8 @@ TGregworks:tGregToolPartSwordBlade:1501, Beryllium Sword Blade
 TGregworks:tGregToolPartSwordBlade:1502, Bismuth Sword Blade
 TGregworks:tGregToolPartSwordBlade:1503, Carbon Sword Blade
 TGregworks:tGregToolPartSwordBlade:1504, Chrome Sword Blade
-TGregworks:tGregToolPartSwordBlade:1638, Cobalt Sword Blade
 TGregworks:tGregToolPartSwordBlade:1505, Gold Sword Blade
 TGregworks:tGregToolPartSwordBlade:1506, Iridium Sword Blade
-TGregworks:tGregToolPartSwordBlade:1639, Iron Sword Blade
 TGregworks:tGregToolPartSwordBlade:1507, Lead Sword Blade
 TGregworks:tGregToolPartSwordBlade:1508, Manganese Sword Blade
 TGregworks:tGregToolPartSwordBlade:1509, Molybdenum Sword Blade
@@ -17609,11 +17486,9 @@ TGregworks:tGregToolPartSwordBlade:1564, Prometheum Sword Blade
 TGregworks:tGregToolPartSwordBlade:1565, Tritanium Sword Blade
 TGregworks:tGregToolPartSwordBlade:1566, Vulcanite Sword Blade
 TGregworks:tGregToolPartSwordBlade:1567, Vyroxeres Sword Blade
-TGregworks:tGregToolPartSwordBlade:1640, Stone Sword Blade
 TGregworks:tGregToolPartSwordBlade:1568, Osmiridium Sword Blade
 TGregworks:tGregToolPartSwordBlade:1569, Blue Topaz Sword Blade
 TGregworks:tGregToolPartSwordBlade:1570, Brass Sword Blade
-TGregworks:tGregToolPartSwordBlade:1641, Bronze Sword Blade
 TGregworks:tGregToolPartSwordBlade:1571, Cupronickel Sword Blade
 TGregworks:tGregToolPartSwordBlade:1572, Deep Iron Sword Blade
 TGregworks:tGregToolPartSwordBlade:1573, Diamond Sword Blade
@@ -17624,7 +17499,6 @@ TGregworks:tGregToolPartSwordBlade:1577, Invar Sword Blade
 TGregworks:tGregToolPartSwordBlade:1578, Kanthal Sword Blade
 TGregworks:tGregToolPartSwordBlade:1579, Magnalium Sword Blade
 TGregworks:tGregToolPartSwordBlade:1580, Nichrome Sword Blade
-TGregworks:tGregToolPartSwordBlade:1642, Pig Iron Sword Blade
 TGregworks:tGregToolPartSwordBlade:1581, Polyethylene Sword Blade
 TGregworks:tGregToolPartSwordBlade:1582, Epoxy Resin Sword Blade
 TGregworks:tGregToolPartSwordBlade:1583, Silicone Rubber Sword Blade
@@ -17639,12 +17513,10 @@ TGregworks:tGregToolPartSwordBlade:1591, Polystyrene Sword Blade
 TGregworks:tGregToolPartSwordBlade:1592, Styrene-Butadiene Rubber Sword Blade
 TGregworks:tGregToolPartSwordBlade:1593, Polyvinyl Chloride Sword Blade
 TGregworks:tGregToolPartSwordBlade:1594, Stainless Steel Sword Blade
-TGregworks:tGregToolPartSwordBlade:1643, Steel Sword Blade
 TGregworks:tGregToolPartSwordBlade:1595, Tanzanite Sword Blade
 TGregworks:tGregToolPartSwordBlade:1596, Tin Alloy Sword Blade
 TGregworks:tGregToolPartSwordBlade:1597, Topaz Sword Blade
 TGregworks:tGregToolPartSwordBlade:1598, Ultimet Sword Blade
-TGregworks:tGregToolPartSwordBlade:1644, Wood Sword Blade
 TGregworks:tGregToolPartSwordBlade:1599, Wrought Iron Sword Blade
 TGregworks:tGregToolPartSwordBlade:1600, Sealed Wood Sword Blade
 TGregworks:tGregToolPartSwordBlade:1601, Ironwood Sword Blade
@@ -17652,7 +17524,6 @@ TGregworks:tGregToolPartSwordBlade:1602, Olivine Sword Blade
 TGregworks:tGregToolPartSwordBlade:1603, Opal Sword Blade
 TGregworks:tGregToolPartSwordBlade:1604, Amethyst Sword Blade
 TGregworks:tGregToolPartSwordBlade:1605, Blaze Sword Blade
-TGregworks:tGregToolPartSwordBlade:1645, Flint Sword Blade
 TGregworks:tGregToolPartSwordBlade:1606, Shadowiron Sword Blade
 TGregworks:tGregToolPartSwordBlade:1607, Shadowsteel Sword Blade
 TGregworks:tGregToolPartSwordBlade:1608, Steeleaf Sword Blade
@@ -17690,10 +17561,8 @@ TGregworks:tGregToolPartLargeGuard:1501, Beryllium Wide Guard
 TGregworks:tGregToolPartLargeGuard:1502, Bismuth Wide Guard
 TGregworks:tGregToolPartLargeGuard:1503, Carbon Wide Guard
 TGregworks:tGregToolPartLargeGuard:1504, Chrome Wide Guard
-TGregworks:tGregToolPartLargeGuard:1638, Cobalt Wide Guard
 TGregworks:tGregToolPartLargeGuard:1505, Gold Wide Guard
 TGregworks:tGregToolPartLargeGuard:1506, Iridium Wide Guard
-TGregworks:tGregToolPartLargeGuard:1639, Iron Wide Guard
 TGregworks:tGregToolPartLargeGuard:1507, Lead Wide Guard
 TGregworks:tGregToolPartLargeGuard:1508, Manganese Wide Guard
 TGregworks:tGregToolPartLargeGuard:1509, Molybdenum Wide Guard
@@ -17755,11 +17624,9 @@ TGregworks:tGregToolPartLargeGuard:1564, Prometheum Wide Guard
 TGregworks:tGregToolPartLargeGuard:1565, Tritanium Wide Guard
 TGregworks:tGregToolPartLargeGuard:1566, Vulcanite Wide Guard
 TGregworks:tGregToolPartLargeGuard:1567, Vyroxeres Wide Guard
-TGregworks:tGregToolPartLargeGuard:1640, Stone Wide Guard
 TGregworks:tGregToolPartLargeGuard:1568, Osmiridium Wide Guard
 TGregworks:tGregToolPartLargeGuard:1569, Blue Topaz Wide Guard
 TGregworks:tGregToolPartLargeGuard:1570, Brass Wide Guard
-TGregworks:tGregToolPartLargeGuard:1641, Bronze Wide Guard
 TGregworks:tGregToolPartLargeGuard:1571, Cupronickel Wide Guard
 TGregworks:tGregToolPartLargeGuard:1572, Deep Iron Wide Guard
 TGregworks:tGregToolPartLargeGuard:1573, Diamond Wide Guard
@@ -17770,7 +17637,6 @@ TGregworks:tGregToolPartLargeGuard:1577, Invar Wide Guard
 TGregworks:tGregToolPartLargeGuard:1578, Kanthal Wide Guard
 TGregworks:tGregToolPartLargeGuard:1579, Magnalium Wide Guard
 TGregworks:tGregToolPartLargeGuard:1580, Nichrome Wide Guard
-TGregworks:tGregToolPartLargeGuard:1642, Pig Iron Wide Guard
 TGregworks:tGregToolPartLargeGuard:1581, Polyethylene Wide Guard
 TGregworks:tGregToolPartLargeGuard:1582, Epoxy Resin Wide Guard
 TGregworks:tGregToolPartLargeGuard:1583, Silicone Rubber Wide Guard
@@ -17785,12 +17651,10 @@ TGregworks:tGregToolPartLargeGuard:1591, Polystyrene Wide Guard
 TGregworks:tGregToolPartLargeGuard:1592, Styrene-Butadiene Rubber Wide Guard
 TGregworks:tGregToolPartLargeGuard:1593, Polyvinyl Chloride Wide Guard
 TGregworks:tGregToolPartLargeGuard:1594, Stainless Steel Wide Guard
-TGregworks:tGregToolPartLargeGuard:1643, Steel Wide Guard
 TGregworks:tGregToolPartLargeGuard:1595, Tanzanite Wide Guard
 TGregworks:tGregToolPartLargeGuard:1596, Tin Alloy Wide Guard
 TGregworks:tGregToolPartLargeGuard:1597, Topaz Wide Guard
 TGregworks:tGregToolPartLargeGuard:1598, Ultimet Wide Guard
-TGregworks:tGregToolPartLargeGuard:1644, Wood Wide Guard
 TGregworks:tGregToolPartLargeGuard:1599, Wrought Iron Wide Guard
 TGregworks:tGregToolPartLargeGuard:1600, Sealed Wood Wide Guard
 TGregworks:tGregToolPartLargeGuard:1601, Ironwood Wide Guard
@@ -17798,7 +17662,6 @@ TGregworks:tGregToolPartLargeGuard:1602, Olivine Wide Guard
 TGregworks:tGregToolPartLargeGuard:1603, Opal Wide Guard
 TGregworks:tGregToolPartLargeGuard:1604, Amethyst Wide Guard
 TGregworks:tGregToolPartLargeGuard:1605, Blaze Wide Guard
-TGregworks:tGregToolPartLargeGuard:1645, Flint Wide Guard
 TGregworks:tGregToolPartLargeGuard:1606, Shadowiron Wide Guard
 TGregworks:tGregToolPartLargeGuard:1607, Shadowsteel Wide Guard
 TGregworks:tGregToolPartLargeGuard:1608, Steeleaf Wide Guard
@@ -17836,10 +17699,8 @@ TGregworks:tGregToolPartMediumGuard:1501, Beryllium Hand Guard
 TGregworks:tGregToolPartMediumGuard:1502, Bismuth Hand Guard
 TGregworks:tGregToolPartMediumGuard:1503, Carbon Hand Guard
 TGregworks:tGregToolPartMediumGuard:1504, Chrome Hand Guard
-TGregworks:tGregToolPartMediumGuard:1638, Cobalt Hand Guard
 TGregworks:tGregToolPartMediumGuard:1505, Gold Hand Guard
 TGregworks:tGregToolPartMediumGuard:1506, Iridium Hand Guard
-TGregworks:tGregToolPartMediumGuard:1639, Iron Hand Guard
 TGregworks:tGregToolPartMediumGuard:1507, Lead Hand Guard
 TGregworks:tGregToolPartMediumGuard:1508, Manganese Hand Guard
 TGregworks:tGregToolPartMediumGuard:1509, Molybdenum Hand Guard
@@ -17901,11 +17762,9 @@ TGregworks:tGregToolPartMediumGuard:1564, Prometheum Hand Guard
 TGregworks:tGregToolPartMediumGuard:1565, Tritanium Hand Guard
 TGregworks:tGregToolPartMediumGuard:1566, Vulcanite Hand Guard
 TGregworks:tGregToolPartMediumGuard:1567, Vyroxeres Hand Guard
-TGregworks:tGregToolPartMediumGuard:1640, Stone Hand Guard
 TGregworks:tGregToolPartMediumGuard:1568, Osmiridium Hand Guard
 TGregworks:tGregToolPartMediumGuard:1569, Blue Topaz Hand Guard
 TGregworks:tGregToolPartMediumGuard:1570, Brass Hand Guard
-TGregworks:tGregToolPartMediumGuard:1641, Bronze Hand Guard
 TGregworks:tGregToolPartMediumGuard:1571, Cupronickel Hand Guard
 TGregworks:tGregToolPartMediumGuard:1572, Deep Iron Hand Guard
 TGregworks:tGregToolPartMediumGuard:1573, Diamond Hand Guard
@@ -17916,7 +17775,6 @@ TGregworks:tGregToolPartMediumGuard:1577, Invar Hand Guard
 TGregworks:tGregToolPartMediumGuard:1578, Kanthal Hand Guard
 TGregworks:tGregToolPartMediumGuard:1579, Magnalium Hand Guard
 TGregworks:tGregToolPartMediumGuard:1580, Nichrome Hand Guard
-TGregworks:tGregToolPartMediumGuard:1642, Pig Iron Hand Guard
 TGregworks:tGregToolPartMediumGuard:1581, Polyethylene Hand Guard
 TGregworks:tGregToolPartMediumGuard:1582, Epoxy Resin Hand Guard
 TGregworks:tGregToolPartMediumGuard:1583, Silicone Rubber Hand Guard
@@ -17931,12 +17789,10 @@ TGregworks:tGregToolPartMediumGuard:1591, Polystyrene Hand Guard
 TGregworks:tGregToolPartMediumGuard:1592, Styrene-Butadiene Rubber Hand Guard
 TGregworks:tGregToolPartMediumGuard:1593, Polyvinyl Chloride Hand Guard
 TGregworks:tGregToolPartMediumGuard:1594, Stainless Steel Hand Guard
-TGregworks:tGregToolPartMediumGuard:1643, Steel Hand Guard
 TGregworks:tGregToolPartMediumGuard:1595, Tanzanite Hand Guard
 TGregworks:tGregToolPartMediumGuard:1596, Tin Alloy Hand Guard
 TGregworks:tGregToolPartMediumGuard:1597, Topaz Hand Guard
 TGregworks:tGregToolPartMediumGuard:1598, Ultimet Hand Guard
-TGregworks:tGregToolPartMediumGuard:1644, Wood Hand Guard
 TGregworks:tGregToolPartMediumGuard:1599, Wrought Iron Hand Guard
 TGregworks:tGregToolPartMediumGuard:1600, Sealed Wood Hand Guard
 TGregworks:tGregToolPartMediumGuard:1601, Ironwood Hand Guard
@@ -17944,7 +17800,6 @@ TGregworks:tGregToolPartMediumGuard:1602, Olivine Hand Guard
 TGregworks:tGregToolPartMediumGuard:1603, Opal Hand Guard
 TGregworks:tGregToolPartMediumGuard:1604, Amethyst Hand Guard
 TGregworks:tGregToolPartMediumGuard:1605, Blaze Hand Guard
-TGregworks:tGregToolPartMediumGuard:1645, Flint Hand Guard
 TGregworks:tGregToolPartMediumGuard:1606, Shadowiron Hand Guard
 TGregworks:tGregToolPartMediumGuard:1607, Shadowsteel Hand Guard
 TGregworks:tGregToolPartMediumGuard:1608, Steeleaf Hand Guard
@@ -17982,10 +17837,8 @@ TGregworks:tGregToolPartCrossbar:1501, Beryllium Crossbar
 TGregworks:tGregToolPartCrossbar:1502, Bismuth Crossbar
 TGregworks:tGregToolPartCrossbar:1503, Carbon Crossbar
 TGregworks:tGregToolPartCrossbar:1504, Chrome Crossbar
-TGregworks:tGregToolPartCrossbar:1638, Cobalt Crossbar
 TGregworks:tGregToolPartCrossbar:1505, Gold Crossbar
 TGregworks:tGregToolPartCrossbar:1506, Iridium Crossbar
-TGregworks:tGregToolPartCrossbar:1639, Iron Crossbar
 TGregworks:tGregToolPartCrossbar:1507, Lead Crossbar
 TGregworks:tGregToolPartCrossbar:1508, Manganese Crossbar
 TGregworks:tGregToolPartCrossbar:1509, Molybdenum Crossbar
@@ -18047,11 +17900,9 @@ TGregworks:tGregToolPartCrossbar:1564, Prometheum Crossbar
 TGregworks:tGregToolPartCrossbar:1565, Tritanium Crossbar
 TGregworks:tGregToolPartCrossbar:1566, Vulcanite Crossbar
 TGregworks:tGregToolPartCrossbar:1567, Vyroxeres Crossbar
-TGregworks:tGregToolPartCrossbar:1640, Stone Crossbar
 TGregworks:tGregToolPartCrossbar:1568, Osmiridium Crossbar
 TGregworks:tGregToolPartCrossbar:1569, Blue Topaz Crossbar
 TGregworks:tGregToolPartCrossbar:1570, Brass Crossbar
-TGregworks:tGregToolPartCrossbar:1641, Bronze Crossbar
 TGregworks:tGregToolPartCrossbar:1571, Cupronickel Crossbar
 TGregworks:tGregToolPartCrossbar:1572, Deep Iron Crossbar
 TGregworks:tGregToolPartCrossbar:1573, Diamond Crossbar
@@ -18062,7 +17913,6 @@ TGregworks:tGregToolPartCrossbar:1577, Invar Crossbar
 TGregworks:tGregToolPartCrossbar:1578, Kanthal Crossbar
 TGregworks:tGregToolPartCrossbar:1579, Magnalium Crossbar
 TGregworks:tGregToolPartCrossbar:1580, Nichrome Crossbar
-TGregworks:tGregToolPartCrossbar:1642, Pig Iron Crossbar
 TGregworks:tGregToolPartCrossbar:1581, Polyethylene Crossbar
 TGregworks:tGregToolPartCrossbar:1582, Epoxy Resin Crossbar
 TGregworks:tGregToolPartCrossbar:1583, Silicone Rubber Crossbar
@@ -18077,12 +17927,10 @@ TGregworks:tGregToolPartCrossbar:1591, Polystyrene Crossbar
 TGregworks:tGregToolPartCrossbar:1592, Styrene-Butadiene Rubber Crossbar
 TGregworks:tGregToolPartCrossbar:1593, Polyvinyl Chloride Crossbar
 TGregworks:tGregToolPartCrossbar:1594, Stainless Steel Crossbar
-TGregworks:tGregToolPartCrossbar:1643, Steel Crossbar
 TGregworks:tGregToolPartCrossbar:1595, Tanzanite Crossbar
 TGregworks:tGregToolPartCrossbar:1596, Tin Alloy Crossbar
 TGregworks:tGregToolPartCrossbar:1597, Topaz Crossbar
 TGregworks:tGregToolPartCrossbar:1598, Ultimet Crossbar
-TGregworks:tGregToolPartCrossbar:1644, Wood Crossbar
 TGregworks:tGregToolPartCrossbar:1599, Wrought Iron Crossbar
 TGregworks:tGregToolPartCrossbar:1600, Sealed Wood Crossbar
 TGregworks:tGregToolPartCrossbar:1601, Ironwood Crossbar
@@ -18090,7 +17938,6 @@ TGregworks:tGregToolPartCrossbar:1602, Olivine Crossbar
 TGregworks:tGregToolPartCrossbar:1603, Opal Crossbar
 TGregworks:tGregToolPartCrossbar:1604, Amethyst Crossbar
 TGregworks:tGregToolPartCrossbar:1605, Blaze Crossbar
-TGregworks:tGregToolPartCrossbar:1645, Flint Crossbar
 TGregworks:tGregToolPartCrossbar:1606, Shadowiron Crossbar
 TGregworks:tGregToolPartCrossbar:1607, Shadowsteel Crossbar
 TGregworks:tGregToolPartCrossbar:1608, Steeleaf Crossbar
@@ -18128,10 +17975,8 @@ TGregworks:tGregToolPartKnifeBlade:1501, Beryllium Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1502, Bismuth Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1503, Carbon Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1504, Chrome Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1638, Cobalt Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1505, Gold Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1506, Iridium Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1639, Iron Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1507, Lead Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1508, Manganese Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1509, Molybdenum Knife Blade
@@ -18193,11 +18038,9 @@ TGregworks:tGregToolPartKnifeBlade:1564, Prometheum Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1565, Tritanium Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1566, Vulcanite Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1567, Vyroxeres Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1640, Stone Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1568, Osmiridium Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1569, Blue Topaz Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1570, Brass Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1641, Bronze Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1571, Cupronickel Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1572, Deep Iron Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1573, Diamond Knife Blade
@@ -18208,7 +18051,6 @@ TGregworks:tGregToolPartKnifeBlade:1577, Invar Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1578, Kanthal Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1579, Magnalium Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1580, Nichrome Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1642, Pig Iron Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1581, Polyethylene Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1582, Epoxy Resin Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1583, Silicone Rubber Knife Blade
@@ -18223,12 +18065,10 @@ TGregworks:tGregToolPartKnifeBlade:1591, Polystyrene Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1592, Styrene-Butadiene Rubber Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1593, Polyvinyl Chloride Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1594, Stainless Steel Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1643, Steel Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1595, Tanzanite Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1596, Tin Alloy Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1597, Topaz Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1598, Ultimet Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1644, Wood Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1599, Wrought Iron Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1600, Sealed Wood Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1601, Ironwood Knife Blade
@@ -18236,7 +18076,6 @@ TGregworks:tGregToolPartKnifeBlade:1602, Olivine Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1603, Opal Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1604, Amethyst Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1605, Blaze Knife Blade
-TGregworks:tGregToolPartKnifeBlade:1645, Flint Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1606, Shadowiron Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1607, Shadowsteel Knife Blade
 TGregworks:tGregToolPartKnifeBlade:1608, Steeleaf Knife Blade
@@ -18274,10 +18113,8 @@ TGregworks:tGregToolPartFullGuard:1501, Beryllium Full Guard
 TGregworks:tGregToolPartFullGuard:1502, Bismuth Full Guard
 TGregworks:tGregToolPartFullGuard:1503, Carbon Full Guard
 TGregworks:tGregToolPartFullGuard:1504, Chrome Full Guard
-TGregworks:tGregToolPartFullGuard:1638, Cobalt Full Guard
 TGregworks:tGregToolPartFullGuard:1505, Gold Full Guard
 TGregworks:tGregToolPartFullGuard:1506, Iridium Full Guard
-TGregworks:tGregToolPartFullGuard:1639, Iron Full Guard
 TGregworks:tGregToolPartFullGuard:1507, Lead Full Guard
 TGregworks:tGregToolPartFullGuard:1508, Manganese Full Guard
 TGregworks:tGregToolPartFullGuard:1509, Molybdenum Full Guard
@@ -18339,11 +18176,9 @@ TGregworks:tGregToolPartFullGuard:1564, Prometheum Full Guard
 TGregworks:tGregToolPartFullGuard:1565, Tritanium Full Guard
 TGregworks:tGregToolPartFullGuard:1566, Vulcanite Full Guard
 TGregworks:tGregToolPartFullGuard:1567, Vyroxeres Full Guard
-TGregworks:tGregToolPartFullGuard:1640, Stone Full Guard
 TGregworks:tGregToolPartFullGuard:1568, Osmiridium Full Guard
 TGregworks:tGregToolPartFullGuard:1569, Blue Topaz Full Guard
 TGregworks:tGregToolPartFullGuard:1570, Brass Full Guard
-TGregworks:tGregToolPartFullGuard:1641, Bronze Full Guard
 TGregworks:tGregToolPartFullGuard:1571, Cupronickel Full Guard
 TGregworks:tGregToolPartFullGuard:1572, Deep Iron Full Guard
 TGregworks:tGregToolPartFullGuard:1573, Diamond Full Guard
@@ -18354,7 +18189,6 @@ TGregworks:tGregToolPartFullGuard:1577, Invar Full Guard
 TGregworks:tGregToolPartFullGuard:1578, Kanthal Full Guard
 TGregworks:tGregToolPartFullGuard:1579, Magnalium Full Guard
 TGregworks:tGregToolPartFullGuard:1580, Nichrome Full Guard
-TGregworks:tGregToolPartFullGuard:1642, Pig Iron Full Guard
 TGregworks:tGregToolPartFullGuard:1581, Polyethylene Full Guard
 TGregworks:tGregToolPartFullGuard:1582, Epoxy Resin Full Guard
 TGregworks:tGregToolPartFullGuard:1583, Silicone Rubber Full Guard
@@ -18369,12 +18203,10 @@ TGregworks:tGregToolPartFullGuard:1591, Polystyrene Full Guard
 TGregworks:tGregToolPartFullGuard:1592, Styrene-Butadiene Rubber Full Guard
 TGregworks:tGregToolPartFullGuard:1593, Polyvinyl Chloride Full Guard
 TGregworks:tGregToolPartFullGuard:1594, Stainless Steel Full Guard
-TGregworks:tGregToolPartFullGuard:1643, Steel Full Guard
 TGregworks:tGregToolPartFullGuard:1595, Tanzanite Full Guard
 TGregworks:tGregToolPartFullGuard:1596, Tin Alloy Full Guard
 TGregworks:tGregToolPartFullGuard:1597, Topaz Full Guard
 TGregworks:tGregToolPartFullGuard:1598, Ultimet Full Guard
-TGregworks:tGregToolPartFullGuard:1644, Wood Full Guard
 TGregworks:tGregToolPartFullGuard:1599, Wrought Iron Full Guard
 TGregworks:tGregToolPartFullGuard:1600, Sealed Wood Full Guard
 TGregworks:tGregToolPartFullGuard:1601, Ironwood Full Guard
@@ -18382,7 +18214,6 @@ TGregworks:tGregToolPartFullGuard:1602, Olivine Full Guard
 TGregworks:tGregToolPartFullGuard:1603, Opal Full Guard
 TGregworks:tGregToolPartFullGuard:1604, Amethyst Full Guard
 TGregworks:tGregToolPartFullGuard:1605, Blaze Full Guard
-TGregworks:tGregToolPartFullGuard:1645, Flint Full Guard
 TGregworks:tGregToolPartFullGuard:1606, Shadowiron Full Guard
 TGregworks:tGregToolPartFullGuard:1607, Shadowsteel Full Guard
 TGregworks:tGregToolPartFullGuard:1608, Steeleaf Full Guard
@@ -18420,10 +18251,8 @@ TGregworks:tGregToolPartFrypanHead:1501, Beryllium Pan
 TGregworks:tGregToolPartFrypanHead:1502, Bismuth Pan
 TGregworks:tGregToolPartFrypanHead:1503, Carbon Pan
 TGregworks:tGregToolPartFrypanHead:1504, Chrome Pan
-TGregworks:tGregToolPartFrypanHead:1638, Cobalt Pan
 TGregworks:tGregToolPartFrypanHead:1505, Gold Pan
 TGregworks:tGregToolPartFrypanHead:1506, Iridium Pan
-TGregworks:tGregToolPartFrypanHead:1639, Iron Pan
 TGregworks:tGregToolPartFrypanHead:1507, Lead Pan
 TGregworks:tGregToolPartFrypanHead:1508, Manganese Pan
 TGregworks:tGregToolPartFrypanHead:1509, Molybdenum Pan
@@ -18485,11 +18314,9 @@ TGregworks:tGregToolPartFrypanHead:1564, Prometheum Pan
 TGregworks:tGregToolPartFrypanHead:1565, Tritanium Pan
 TGregworks:tGregToolPartFrypanHead:1566, Vulcanite Pan
 TGregworks:tGregToolPartFrypanHead:1567, Vyroxeres Pan
-TGregworks:tGregToolPartFrypanHead:1640, Stone Pan
 TGregworks:tGregToolPartFrypanHead:1568, Osmiridium Pan
 TGregworks:tGregToolPartFrypanHead:1569, Blue Topaz Pan
 TGregworks:tGregToolPartFrypanHead:1570, Brass Pan
-TGregworks:tGregToolPartFrypanHead:1641, Bronze Pan
 TGregworks:tGregToolPartFrypanHead:1571, Cupronickel Pan
 TGregworks:tGregToolPartFrypanHead:1572, Deep Iron Pan
 TGregworks:tGregToolPartFrypanHead:1573, Diamond Pan
@@ -18500,7 +18327,6 @@ TGregworks:tGregToolPartFrypanHead:1577, Invar Pan
 TGregworks:tGregToolPartFrypanHead:1578, Kanthal Pan
 TGregworks:tGregToolPartFrypanHead:1579, Magnalium Pan
 TGregworks:tGregToolPartFrypanHead:1580, Nichrome Pan
-TGregworks:tGregToolPartFrypanHead:1642, Pig Iron Pan
 TGregworks:tGregToolPartFrypanHead:1581, Polyethylene Pan
 TGregworks:tGregToolPartFrypanHead:1582, Epoxy Resin Pan
 TGregworks:tGregToolPartFrypanHead:1583, Silicone Rubber Pan
@@ -18515,12 +18341,10 @@ TGregworks:tGregToolPartFrypanHead:1591, Polystyrene Pan
 TGregworks:tGregToolPartFrypanHead:1592, Styrene-Butadiene Rubber Pan
 TGregworks:tGregToolPartFrypanHead:1593, Polyvinyl Chloride Pan
 TGregworks:tGregToolPartFrypanHead:1594, Stainless Steel Pan
-TGregworks:tGregToolPartFrypanHead:1643, Steel Pan
 TGregworks:tGregToolPartFrypanHead:1595, Tanzanite Pan
 TGregworks:tGregToolPartFrypanHead:1596, Tin Alloy Pan
 TGregworks:tGregToolPartFrypanHead:1597, Topaz Pan
 TGregworks:tGregToolPartFrypanHead:1598, Ultimet Pan
-TGregworks:tGregToolPartFrypanHead:1644, Wood Pan
 TGregworks:tGregToolPartFrypanHead:1599, Wrought Iron Pan
 TGregworks:tGregToolPartFrypanHead:1600, Sealed Wood Pan
 TGregworks:tGregToolPartFrypanHead:1601, Ironwood Pan
@@ -18528,7 +18352,6 @@ TGregworks:tGregToolPartFrypanHead:1602, Olivine Pan
 TGregworks:tGregToolPartFrypanHead:1603, Opal Pan
 TGregworks:tGregToolPartFrypanHead:1604, Amethyst Pan
 TGregworks:tGregToolPartFrypanHead:1605, Blaze Pan
-TGregworks:tGregToolPartFrypanHead:1645, Flint Pan
 TGregworks:tGregToolPartFrypanHead:1606, Shadowiron Pan
 TGregworks:tGregToolPartFrypanHead:1607, Shadowsteel Pan
 TGregworks:tGregToolPartFrypanHead:1608, Steeleaf Pan
@@ -18566,10 +18389,8 @@ TGregworks:tGregToolPartSignHead:1501, Beryllium Sign Head
 TGregworks:tGregToolPartSignHead:1502, Bismuth Sign Head
 TGregworks:tGregToolPartSignHead:1503, Carbon Sign Head
 TGregworks:tGregToolPartSignHead:1504, Chrome Sign Head
-TGregworks:tGregToolPartSignHead:1638, Cobalt Sign Head
 TGregworks:tGregToolPartSignHead:1505, Gold Sign Head
 TGregworks:tGregToolPartSignHead:1506, Iridium Sign Head
-TGregworks:tGregToolPartSignHead:1639, Iron Sign Head
 TGregworks:tGregToolPartSignHead:1507, Lead Sign Head
 TGregworks:tGregToolPartSignHead:1508, Manganese Sign Head
 TGregworks:tGregToolPartSignHead:1509, Molybdenum Sign Head
@@ -18631,11 +18452,9 @@ TGregworks:tGregToolPartSignHead:1564, Prometheum Sign Head
 TGregworks:tGregToolPartSignHead:1565, Tritanium Sign Head
 TGregworks:tGregToolPartSignHead:1566, Vulcanite Sign Head
 TGregworks:tGregToolPartSignHead:1567, Vyroxeres Sign Head
-TGregworks:tGregToolPartSignHead:1640, Stone Sign Head
 TGregworks:tGregToolPartSignHead:1568, Osmiridium Sign Head
 TGregworks:tGregToolPartSignHead:1569, Blue Topaz Sign Head
 TGregworks:tGregToolPartSignHead:1570, Brass Sign Head
-TGregworks:tGregToolPartSignHead:1641, Bronze Sign Head
 TGregworks:tGregToolPartSignHead:1571, Cupronickel Sign Head
 TGregworks:tGregToolPartSignHead:1572, Deep Iron Sign Head
 TGregworks:tGregToolPartSignHead:1573, Diamond Sign Head
@@ -18646,7 +18465,6 @@ TGregworks:tGregToolPartSignHead:1577, Invar Sign Head
 TGregworks:tGregToolPartSignHead:1578, Kanthal Sign Head
 TGregworks:tGregToolPartSignHead:1579, Magnalium Sign Head
 TGregworks:tGregToolPartSignHead:1580, Nichrome Sign Head
-TGregworks:tGregToolPartSignHead:1642, Pig Iron Sign Head
 TGregworks:tGregToolPartSignHead:1581, Polyethylene Sign Head
 TGregworks:tGregToolPartSignHead:1582, Epoxy Resin Sign Head
 TGregworks:tGregToolPartSignHead:1583, Silicone Rubber Sign Head
@@ -18661,12 +18479,10 @@ TGregworks:tGregToolPartSignHead:1591, Polystyrene Sign Head
 TGregworks:tGregToolPartSignHead:1592, Styrene-Butadiene Rubber Sign Head
 TGregworks:tGregToolPartSignHead:1593, Polyvinyl Chloride Sign Head
 TGregworks:tGregToolPartSignHead:1594, Stainless Steel Sign Head
-TGregworks:tGregToolPartSignHead:1643, Steel Sign Head
 TGregworks:tGregToolPartSignHead:1595, Tanzanite Sign Head
 TGregworks:tGregToolPartSignHead:1596, Tin Alloy Sign Head
 TGregworks:tGregToolPartSignHead:1597, Topaz Sign Head
 TGregworks:tGregToolPartSignHead:1598, Ultimet Sign Head
-TGregworks:tGregToolPartSignHead:1644, Wood Sign Head
 TGregworks:tGregToolPartSignHead:1599, Wrought Iron Sign Head
 TGregworks:tGregToolPartSignHead:1600, Sealed Wood Sign Head
 TGregworks:tGregToolPartSignHead:1601, Ironwood Sign Head
@@ -18674,7 +18490,6 @@ TGregworks:tGregToolPartSignHead:1602, Olivine Sign Head
 TGregworks:tGregToolPartSignHead:1603, Opal Sign Head
 TGregworks:tGregToolPartSignHead:1604, Amethyst Sign Head
 TGregworks:tGregToolPartSignHead:1605, Blaze Sign Head
-TGregworks:tGregToolPartSignHead:1645, Flint Sign Head
 TGregworks:tGregToolPartSignHead:1606, Shadowiron Sign Head
 TGregworks:tGregToolPartSignHead:1607, Shadowsteel Sign Head
 TGregworks:tGregToolPartSignHead:1608, Steeleaf Sign Head
@@ -18712,10 +18527,8 @@ TGregworks:tGregToolPartChiselHead:1501, Beryllium Chisel Head
 TGregworks:tGregToolPartChiselHead:1502, Bismuth Chisel Head
 TGregworks:tGregToolPartChiselHead:1503, Carbon Chisel Head
 TGregworks:tGregToolPartChiselHead:1504, Chrome Chisel Head
-TGregworks:tGregToolPartChiselHead:1638, Cobalt Chisel Head
 TGregworks:tGregToolPartChiselHead:1505, Gold Chisel Head
 TGregworks:tGregToolPartChiselHead:1506, Iridium Chisel Head
-TGregworks:tGregToolPartChiselHead:1639, Iron Chisel Head
 TGregworks:tGregToolPartChiselHead:1507, Lead Chisel Head
 TGregworks:tGregToolPartChiselHead:1508, Manganese Chisel Head
 TGregworks:tGregToolPartChiselHead:1509, Molybdenum Chisel Head
@@ -18777,11 +18590,9 @@ TGregworks:tGregToolPartChiselHead:1564, Prometheum Chisel Head
 TGregworks:tGregToolPartChiselHead:1565, Tritanium Chisel Head
 TGregworks:tGregToolPartChiselHead:1566, Vulcanite Chisel Head
 TGregworks:tGregToolPartChiselHead:1567, Vyroxeres Chisel Head
-TGregworks:tGregToolPartChiselHead:1640, Stone Chisel Head
 TGregworks:tGregToolPartChiselHead:1568, Osmiridium Chisel Head
 TGregworks:tGregToolPartChiselHead:1569, Blue Topaz Chisel Head
 TGregworks:tGregToolPartChiselHead:1570, Brass Chisel Head
-TGregworks:tGregToolPartChiselHead:1641, Bronze Chisel Head
 TGregworks:tGregToolPartChiselHead:1571, Cupronickel Chisel Head
 TGregworks:tGregToolPartChiselHead:1572, Deep Iron Chisel Head
 TGregworks:tGregToolPartChiselHead:1573, Diamond Chisel Head
@@ -18792,7 +18603,6 @@ TGregworks:tGregToolPartChiselHead:1577, Invar Chisel Head
 TGregworks:tGregToolPartChiselHead:1578, Kanthal Chisel Head
 TGregworks:tGregToolPartChiselHead:1579, Magnalium Chisel Head
 TGregworks:tGregToolPartChiselHead:1580, Nichrome Chisel Head
-TGregworks:tGregToolPartChiselHead:1642, Pig Iron Chisel Head
 TGregworks:tGregToolPartChiselHead:1581, Polyethylene Chisel Head
 TGregworks:tGregToolPartChiselHead:1582, Epoxy Resin Chisel Head
 TGregworks:tGregToolPartChiselHead:1583, Silicone Rubber Chisel Head
@@ -18807,12 +18617,10 @@ TGregworks:tGregToolPartChiselHead:1591, Polystyrene Chisel Head
 TGregworks:tGregToolPartChiselHead:1592, Styrene-Butadiene Rubber Chisel Head
 TGregworks:tGregToolPartChiselHead:1593, Polyvinyl Chloride Chisel Head
 TGregworks:tGregToolPartChiselHead:1594, Stainless Steel Chisel Head
-TGregworks:tGregToolPartChiselHead:1643, Steel Chisel Head
 TGregworks:tGregToolPartChiselHead:1595, Tanzanite Chisel Head
 TGregworks:tGregToolPartChiselHead:1596, Tin Alloy Chisel Head
 TGregworks:tGregToolPartChiselHead:1597, Topaz Chisel Head
 TGregworks:tGregToolPartChiselHead:1598, Ultimet Chisel Head
-TGregworks:tGregToolPartChiselHead:1644, Wood Chisel Head
 TGregworks:tGregToolPartChiselHead:1599, Wrought Iron Chisel Head
 TGregworks:tGregToolPartChiselHead:1600, Sealed Wood Chisel Head
 TGregworks:tGregToolPartChiselHead:1601, Ironwood Chisel Head
@@ -18820,7 +18628,6 @@ TGregworks:tGregToolPartChiselHead:1602, Olivine Chisel Head
 TGregworks:tGregToolPartChiselHead:1603, Opal Chisel Head
 TGregworks:tGregToolPartChiselHead:1604, Amethyst Chisel Head
 TGregworks:tGregToolPartChiselHead:1605, Blaze Chisel Head
-TGregworks:tGregToolPartChiselHead:1645, Flint Chisel Head
 TGregworks:tGregToolPartChiselHead:1606, Shadowiron Chisel Head
 TGregworks:tGregToolPartChiselHead:1607, Shadowsteel Chisel Head
 TGregworks:tGregToolPartChiselHead:1608, Steeleaf Chisel Head
@@ -18858,10 +18665,8 @@ TGregworks:tGregToolPartScytheHead:1501, Beryllium Scythe Head
 TGregworks:tGregToolPartScytheHead:1502, Bismuth Scythe Head
 TGregworks:tGregToolPartScytheHead:1503, Carbon Scythe Head
 TGregworks:tGregToolPartScytheHead:1504, Chrome Scythe Head
-TGregworks:tGregToolPartScytheHead:1638, Cobalt Scythe Head
 TGregworks:tGregToolPartScytheHead:1505, Gold Scythe Head
 TGregworks:tGregToolPartScytheHead:1506, Iridium Scythe Head
-TGregworks:tGregToolPartScytheHead:1639, Iron Scythe Head
 TGregworks:tGregToolPartScytheHead:1507, Lead Scythe Head
 TGregworks:tGregToolPartScytheHead:1508, Manganese Scythe Head
 TGregworks:tGregToolPartScytheHead:1509, Molybdenum Scythe Head
@@ -18923,11 +18728,9 @@ TGregworks:tGregToolPartScytheHead:1564, Prometheum Scythe Head
 TGregworks:tGregToolPartScytheHead:1565, Tritanium Scythe Head
 TGregworks:tGregToolPartScytheHead:1566, Vulcanite Scythe Head
 TGregworks:tGregToolPartScytheHead:1567, Vyroxeres Scythe Head
-TGregworks:tGregToolPartScytheHead:1640, Stone Scythe Head
 TGregworks:tGregToolPartScytheHead:1568, Osmiridium Scythe Head
 TGregworks:tGregToolPartScytheHead:1569, Blue Topaz Scythe Head
 TGregworks:tGregToolPartScytheHead:1570, Brass Scythe Head
-TGregworks:tGregToolPartScytheHead:1641, Bronze Scythe Head
 TGregworks:tGregToolPartScytheHead:1571, Cupronickel Scythe Head
 TGregworks:tGregToolPartScytheHead:1572, Deep Iron Scythe Head
 TGregworks:tGregToolPartScytheHead:1573, Diamond Scythe Head
@@ -18938,7 +18741,6 @@ TGregworks:tGregToolPartScytheHead:1577, Invar Scythe Head
 TGregworks:tGregToolPartScytheHead:1578, Kanthal Scythe Head
 TGregworks:tGregToolPartScytheHead:1579, Magnalium Scythe Head
 TGregworks:tGregToolPartScytheHead:1580, Nichrome Scythe Head
-TGregworks:tGregToolPartScytheHead:1642, Pig Iron Scythe Head
 TGregworks:tGregToolPartScytheHead:1581, Polyethylene Scythe Head
 TGregworks:tGregToolPartScytheHead:1582, Epoxy Resin Scythe Head
 TGregworks:tGregToolPartScytheHead:1583, Silicone Rubber Scythe Head
@@ -18953,12 +18755,10 @@ TGregworks:tGregToolPartScytheHead:1591, Polystyrene Scythe Head
 TGregworks:tGregToolPartScytheHead:1592, Styrene-Butadiene Rubber Scythe Head
 TGregworks:tGregToolPartScytheHead:1593, Polyvinyl Chloride Scythe Head
 TGregworks:tGregToolPartScytheHead:1594, Stainless Steel Scythe Head
-TGregworks:tGregToolPartScytheHead:1643, Steel Scythe Head
 TGregworks:tGregToolPartScytheHead:1595, Tanzanite Scythe Head
 TGregworks:tGregToolPartScytheHead:1596, Tin Alloy Scythe Head
 TGregworks:tGregToolPartScytheHead:1597, Topaz Scythe Head
 TGregworks:tGregToolPartScytheHead:1598, Ultimet Scythe Head
-TGregworks:tGregToolPartScytheHead:1644, Wood Scythe Head
 TGregworks:tGregToolPartScytheHead:1599, Wrought Iron Scythe Head
 TGregworks:tGregToolPartScytheHead:1600, Sealed Wood Scythe Head
 TGregworks:tGregToolPartScytheHead:1601, Ironwood Scythe Head
@@ -18966,7 +18766,6 @@ TGregworks:tGregToolPartScytheHead:1602, Olivine Scythe Head
 TGregworks:tGregToolPartScytheHead:1603, Opal Scythe Head
 TGregworks:tGregToolPartScytheHead:1604, Amethyst Scythe Head
 TGregworks:tGregToolPartScytheHead:1605, Blaze Scythe Head
-TGregworks:tGregToolPartScytheHead:1645, Flint Scythe Head
 TGregworks:tGregToolPartScytheHead:1606, Shadowiron Scythe Head
 TGregworks:tGregToolPartScytheHead:1607, Shadowsteel Scythe Head
 TGregworks:tGregToolPartScytheHead:1608, Steeleaf Scythe Head
@@ -19004,10 +18803,8 @@ TGregworks:tGregToolPartLumberHead:1501, Beryllium Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1502, Bismuth Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1503, Carbon Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1504, Chrome Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1638, Cobalt Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1505, Gold Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1506, Iridium Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1639, Iron Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1507, Lead Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1508, Manganese Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1509, Molybdenum Broad Axe Head
@@ -19069,11 +18866,9 @@ TGregworks:tGregToolPartLumberHead:1564, Prometheum Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1565, Tritanium Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1566, Vulcanite Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1567, Vyroxeres Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1640, Stone Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1568, Osmiridium Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1569, Blue Topaz Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1570, Brass Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1641, Bronze Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1571, Cupronickel Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1572, Deep Iron Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1573, Diamond Broad Axe Head
@@ -19084,7 +18879,6 @@ TGregworks:tGregToolPartLumberHead:1577, Invar Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1578, Kanthal Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1579, Magnalium Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1580, Nichrome Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1642, Pig Iron Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1581, Polyethylene Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1582, Epoxy Resin Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1583, Silicone Rubber Broad Axe Head
@@ -19099,12 +18893,10 @@ TGregworks:tGregToolPartLumberHead:1591, Polystyrene Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1592, Styrene-Butadiene Rubber Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1593, Polyvinyl Chloride Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1594, Stainless Steel Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1643, Steel Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1595, Tanzanite Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1596, Tin Alloy Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1597, Topaz Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1598, Ultimet Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1644, Wood Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1599, Wrought Iron Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1600, Sealed Wood Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1601, Ironwood Broad Axe Head
@@ -19112,7 +18904,6 @@ TGregworks:tGregToolPartLumberHead:1602, Olivine Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1603, Opal Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1604, Amethyst Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1605, Blaze Broad Axe Head
-TGregworks:tGregToolPartLumberHead:1645, Flint Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1606, Shadowiron Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1607, Shadowsteel Broad Axe Head
 TGregworks:tGregToolPartLumberHead:1608, Steeleaf Broad Axe Head
@@ -19150,10 +18941,8 @@ TGregworks:tGregToolPartExcavatorHead:1501, Beryllium Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1502, Bismuth Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1503, Carbon Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1504, Chrome Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1638, Cobalt Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1505, Gold Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1506, Iridium Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1639, Iron Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1507, Lead Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1508, Manganese Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1509, Molybdenum Excavator Head
@@ -19215,11 +19004,9 @@ TGregworks:tGregToolPartExcavatorHead:1564, Prometheum Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1565, Tritanium Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1566, Vulcanite Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1567, Vyroxeres Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1640, Stone Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1568, Osmiridium Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1569, Blue Topaz Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1570, Brass Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1641, Bronze Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1571, Cupronickel Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1572, Deep Iron Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1573, Diamond Excavator Head
@@ -19230,7 +19017,6 @@ TGregworks:tGregToolPartExcavatorHead:1577, Invar Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1578, Kanthal Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1579, Magnalium Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1580, Nichrome Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1642, Pig Iron Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1581, Polyethylene Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1582, Epoxy Resin Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1583, Silicone Rubber Excavator Head
@@ -19245,12 +19031,10 @@ TGregworks:tGregToolPartExcavatorHead:1591, Polystyrene Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1592, Styrene-Butadiene Rubber Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1593, Polyvinyl Chloride Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1594, Stainless Steel Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1643, Steel Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1595, Tanzanite Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1596, Tin Alloy Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1597, Topaz Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1598, Ultimet Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1644, Wood Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1599, Wrought Iron Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1600, Sealed Wood Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1601, Ironwood Excavator Head
@@ -19258,7 +19042,6 @@ TGregworks:tGregToolPartExcavatorHead:1602, Olivine Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1603, Opal Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1604, Amethyst Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1605, Blaze Excavator Head
-TGregworks:tGregToolPartExcavatorHead:1645, Flint Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1606, Shadowiron Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1607, Shadowsteel Excavator Head
 TGregworks:tGregToolPartExcavatorHead:1608, Steeleaf Excavator Head
@@ -19296,10 +19079,8 @@ TGregworks:tGregToolPartLargeSwordBlade:1501, Beryllium Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1502, Bismuth Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1503, Carbon Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1504, Chrome Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1638, Cobalt Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1505, Gold Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1506, Iridium Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1639, Iron Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1507, Lead Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1508, Manganese Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1509, Molybdenum Large Sword Blade
@@ -19361,11 +19142,9 @@ TGregworks:tGregToolPartLargeSwordBlade:1564, Prometheum Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1565, Tritanium Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1566, Vulcanite Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1567, Vyroxeres Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1640, Stone Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1568, Osmiridium Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1569, Blue Topaz Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1570, Brass Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1641, Bronze Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1571, Cupronickel Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1572, Deep Iron Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1573, Diamond Large Sword Blade
@@ -19376,7 +19155,6 @@ TGregworks:tGregToolPartLargeSwordBlade:1577, Invar Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1578, Kanthal Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1579, Magnalium Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1580, Nichrome Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1642, Pig Iron Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1581, Polyethylene Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1582, Epoxy Resin Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1583, Silicone Rubber Large Sword Blade
@@ -19391,12 +19169,10 @@ TGregworks:tGregToolPartLargeSwordBlade:1591, Polystyrene Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1592, Styrene-Butadiene Rubber Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1593, Polyvinyl Chloride Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1594, Stainless Steel Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1643, Steel Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1595, Tanzanite Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1596, Tin Alloy Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1597, Topaz Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1598, Ultimet Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1644, Wood Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1599, Wrought Iron Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1600, Sealed Wood Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1601, Ironwood Large Sword Blade
@@ -19404,7 +19180,6 @@ TGregworks:tGregToolPartLargeSwordBlade:1602, Olivine Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1603, Opal Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1604, Amethyst Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1605, Blaze Large Sword Blade
-TGregworks:tGregToolPartLargeSwordBlade:1645, Flint Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1606, Shadowiron Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1607, Shadowsteel Large Sword Blade
 TGregworks:tGregToolPartLargeSwordBlade:1608, Steeleaf Large Sword Blade
@@ -19442,10 +19217,8 @@ TGregworks:tGregToolPartHammerHead:1501, Beryllium Hammer Head
 TGregworks:tGregToolPartHammerHead:1502, Bismuth Hammer Head
 TGregworks:tGregToolPartHammerHead:1503, Carbon Hammer Head
 TGregworks:tGregToolPartHammerHead:1504, Chrome Hammer Head
-TGregworks:tGregToolPartHammerHead:1638, Cobalt Hammer Head
 TGregworks:tGregToolPartHammerHead:1505, Gold Hammer Head
 TGregworks:tGregToolPartHammerHead:1506, Iridium Hammer Head
-TGregworks:tGregToolPartHammerHead:1639, Iron Hammer Head
 TGregworks:tGregToolPartHammerHead:1507, Lead Hammer Head
 TGregworks:tGregToolPartHammerHead:1508, Manganese Hammer Head
 TGregworks:tGregToolPartHammerHead:1509, Molybdenum Hammer Head
@@ -19507,11 +19280,9 @@ TGregworks:tGregToolPartHammerHead:1564, Prometheum Hammer Head
 TGregworks:tGregToolPartHammerHead:1565, Tritanium Hammer Head
 TGregworks:tGregToolPartHammerHead:1566, Vulcanite Hammer Head
 TGregworks:tGregToolPartHammerHead:1567, Vyroxeres Hammer Head
-TGregworks:tGregToolPartHammerHead:1640, Stone Hammer Head
 TGregworks:tGregToolPartHammerHead:1568, Osmiridium Hammer Head
 TGregworks:tGregToolPartHammerHead:1569, Blue Topaz Hammer Head
 TGregworks:tGregToolPartHammerHead:1570, Brass Hammer Head
-TGregworks:tGregToolPartHammerHead:1641, Bronze Hammer Head
 TGregworks:tGregToolPartHammerHead:1571, Cupronickel Hammer Head
 TGregworks:tGregToolPartHammerHead:1572, Deep Iron Hammer Head
 TGregworks:tGregToolPartHammerHead:1573, Diamond Hammer Head
@@ -19522,7 +19293,6 @@ TGregworks:tGregToolPartHammerHead:1577, Invar Hammer Head
 TGregworks:tGregToolPartHammerHead:1578, Kanthal Hammer Head
 TGregworks:tGregToolPartHammerHead:1579, Magnalium Hammer Head
 TGregworks:tGregToolPartHammerHead:1580, Nichrome Hammer Head
-TGregworks:tGregToolPartHammerHead:1642, Pig Iron Hammer Head
 TGregworks:tGregToolPartHammerHead:1581, Polyethylene Hammer Head
 TGregworks:tGregToolPartHammerHead:1582, Epoxy Resin Hammer Head
 TGregworks:tGregToolPartHammerHead:1583, Silicone Rubber Hammer Head
@@ -19537,12 +19307,10 @@ TGregworks:tGregToolPartHammerHead:1591, Polystyrene Hammer Head
 TGregworks:tGregToolPartHammerHead:1592, Styrene-Butadiene Rubber Hammer Head
 TGregworks:tGregToolPartHammerHead:1593, Polyvinyl Chloride Hammer Head
 TGregworks:tGregToolPartHammerHead:1594, Stainless Steel Hammer Head
-TGregworks:tGregToolPartHammerHead:1643, Steel Hammer Head
 TGregworks:tGregToolPartHammerHead:1595, Tanzanite Hammer Head
 TGregworks:tGregToolPartHammerHead:1596, Tin Alloy Hammer Head
 TGregworks:tGregToolPartHammerHead:1597, Topaz Hammer Head
 TGregworks:tGregToolPartHammerHead:1598, Ultimet Hammer Head
-TGregworks:tGregToolPartHammerHead:1644, Wood Hammer Head
 TGregworks:tGregToolPartHammerHead:1599, Wrought Iron Hammer Head
 TGregworks:tGregToolPartHammerHead:1600, Sealed Wood Hammer Head
 TGregworks:tGregToolPartHammerHead:1601, Ironwood Hammer Head
@@ -19550,7 +19318,6 @@ TGregworks:tGregToolPartHammerHead:1602, Olivine Hammer Head
 TGregworks:tGregToolPartHammerHead:1603, Opal Hammer Head
 TGregworks:tGregToolPartHammerHead:1604, Amethyst Hammer Head
 TGregworks:tGregToolPartHammerHead:1605, Blaze Hammer Head
-TGregworks:tGregToolPartHammerHead:1645, Flint Hammer Head
 TGregworks:tGregToolPartHammerHead:1606, Shadowiron Hammer Head
 TGregworks:tGregToolPartHammerHead:1607, Shadowsteel Hammer Head
 TGregworks:tGregToolPartHammerHead:1608, Steeleaf Hammer Head
@@ -19588,10 +19355,8 @@ TGregworks:tGregToolPartChunk:1501, Beryllium Shard
 TGregworks:tGregToolPartChunk:1502, Bismuth Shard
 TGregworks:tGregToolPartChunk:1503, Carbon Shard
 TGregworks:tGregToolPartChunk:1504, Chrome Shard
-TGregworks:tGregToolPartChunk:1638, Cobalt Shard
 TGregworks:tGregToolPartChunk:1505, Gold Shard
 TGregworks:tGregToolPartChunk:1506, Iridium Shard
-TGregworks:tGregToolPartChunk:1639, Iron Shard
 TGregworks:tGregToolPartChunk:1507, Lead Shard
 TGregworks:tGregToolPartChunk:1508, Manganese Shard
 TGregworks:tGregToolPartChunk:1509, Molybdenum Shard
@@ -19653,11 +19418,9 @@ TGregworks:tGregToolPartChunk:1564, Prometheum Shard
 TGregworks:tGregToolPartChunk:1565, Tritanium Shard
 TGregworks:tGregToolPartChunk:1566, Vulcanite Shard
 TGregworks:tGregToolPartChunk:1567, Vyroxeres Shard
-TGregworks:tGregToolPartChunk:1640, Stone Shard
 TGregworks:tGregToolPartChunk:1568, Osmiridium Shard
 TGregworks:tGregToolPartChunk:1569, Blue Topaz Shard
 TGregworks:tGregToolPartChunk:1570, Brass Shard
-TGregworks:tGregToolPartChunk:1641, Bronze Shard
 TGregworks:tGregToolPartChunk:1571, Cupronickel Shard
 TGregworks:tGregToolPartChunk:1572, Deep Iron Shard
 TGregworks:tGregToolPartChunk:1573, Diamond Shard
@@ -19668,7 +19431,6 @@ TGregworks:tGregToolPartChunk:1577, Invar Shard
 TGregworks:tGregToolPartChunk:1578, Kanthal Shard
 TGregworks:tGregToolPartChunk:1579, Magnalium Shard
 TGregworks:tGregToolPartChunk:1580, Nichrome Shard
-TGregworks:tGregToolPartChunk:1642, Pig Iron Shard
 TGregworks:tGregToolPartChunk:1581, Polyethylene Shard
 TGregworks:tGregToolPartChunk:1582, Epoxy Resin Shard
 TGregworks:tGregToolPartChunk:1583, Silicone Rubber Shard
@@ -19683,12 +19445,10 @@ TGregworks:tGregToolPartChunk:1591, Polystyrene Shard
 TGregworks:tGregToolPartChunk:1592, Styrene-Butadiene Rubber Shard
 TGregworks:tGregToolPartChunk:1593, Polyvinyl Chloride Shard
 TGregworks:tGregToolPartChunk:1594, Stainless Steel Shard
-TGregworks:tGregToolPartChunk:1643, Steel Shard
 TGregworks:tGregToolPartChunk:1595, Tanzanite Shard
 TGregworks:tGregToolPartChunk:1596, Tin Alloy Shard
 TGregworks:tGregToolPartChunk:1597, Topaz Shard
 TGregworks:tGregToolPartChunk:1598, Ultimet Shard
-TGregworks:tGregToolPartChunk:1644, Wood Shard
 TGregworks:tGregToolPartChunk:1599, Wrought Iron Shard
 TGregworks:tGregToolPartChunk:1600, Sealed Wood Shard
 TGregworks:tGregToolPartChunk:1601, Ironwood Shard
@@ -19696,7 +19456,6 @@ TGregworks:tGregToolPartChunk:1602, Olivine Shard
 TGregworks:tGregToolPartChunk:1603, Opal Shard
 TGregworks:tGregToolPartChunk:1604, Amethyst Shard
 TGregworks:tGregToolPartChunk:1605, Blaze Shard
-TGregworks:tGregToolPartChunk:1645, Flint Shard
 TGregworks:tGregToolPartChunk:1606, Shadowiron Shard
 TGregworks:tGregToolPartChunk:1607, Shadowsteel Shard
 TGregworks:tGregToolPartChunk:1608, Steeleaf Shard
@@ -19734,10 +19493,8 @@ TGregworks:tGregToolPartArrowHead:1501, Beryllium Arrow Head
 TGregworks:tGregToolPartArrowHead:1502, Bismuth Arrow Head
 TGregworks:tGregToolPartArrowHead:1503, Carbon Arrow Head
 TGregworks:tGregToolPartArrowHead:1504, Chrome Arrow Head
-TGregworks:tGregToolPartArrowHead:1638, Cobalt Arrow Head
 TGregworks:tGregToolPartArrowHead:1505, Gold Arrow Head
 TGregworks:tGregToolPartArrowHead:1506, Iridium Arrow Head
-TGregworks:tGregToolPartArrowHead:1639, Iron Arrow Head
 TGregworks:tGregToolPartArrowHead:1507, Lead Arrow Head
 TGregworks:tGregToolPartArrowHead:1508, Manganese Arrow Head
 TGregworks:tGregToolPartArrowHead:1509, Molybdenum Arrow Head
@@ -19799,11 +19556,9 @@ TGregworks:tGregToolPartArrowHead:1564, Prometheum Arrow Head
 TGregworks:tGregToolPartArrowHead:1565, Tritanium Arrow Head
 TGregworks:tGregToolPartArrowHead:1566, Vulcanite Arrow Head
 TGregworks:tGregToolPartArrowHead:1567, Vyroxeres Arrow Head
-TGregworks:tGregToolPartArrowHead:1640, Stone Arrow Head
 TGregworks:tGregToolPartArrowHead:1568, Osmiridium Arrow Head
 TGregworks:tGregToolPartArrowHead:1569, Blue Topaz Arrow Head
 TGregworks:tGregToolPartArrowHead:1570, Brass Arrow Head
-TGregworks:tGregToolPartArrowHead:1641, Bronze Arrow Head
 TGregworks:tGregToolPartArrowHead:1571, Cupronickel Arrow Head
 TGregworks:tGregToolPartArrowHead:1572, Deep Iron Arrow Head
 TGregworks:tGregToolPartArrowHead:1573, Diamond Arrow Head
@@ -19814,7 +19569,6 @@ TGregworks:tGregToolPartArrowHead:1577, Invar Arrow Head
 TGregworks:tGregToolPartArrowHead:1578, Kanthal Arrow Head
 TGregworks:tGregToolPartArrowHead:1579, Magnalium Arrow Head
 TGregworks:tGregToolPartArrowHead:1580, Nichrome Arrow Head
-TGregworks:tGregToolPartArrowHead:1642, Pig Iron Arrow Head
 TGregworks:tGregToolPartArrowHead:1581, Polyethylene Arrow Head
 TGregworks:tGregToolPartArrowHead:1582, Epoxy Resin Arrow Head
 TGregworks:tGregToolPartArrowHead:1583, Silicone Rubber Arrow Head
@@ -19829,12 +19583,10 @@ TGregworks:tGregToolPartArrowHead:1591, Polystyrene Arrow Head
 TGregworks:tGregToolPartArrowHead:1592, Styrene-Butadiene Rubber Arrow Head
 TGregworks:tGregToolPartArrowHead:1593, Polyvinyl Chloride Arrow Head
 TGregworks:tGregToolPartArrowHead:1594, Stainless Steel Arrow Head
-TGregworks:tGregToolPartArrowHead:1643, Steel Arrow Head
 TGregworks:tGregToolPartArrowHead:1595, Tanzanite Arrow Head
 TGregworks:tGregToolPartArrowHead:1596, Tin Alloy Arrow Head
 TGregworks:tGregToolPartArrowHead:1597, Topaz Arrow Head
 TGregworks:tGregToolPartArrowHead:1598, Ultimet Arrow Head
-TGregworks:tGregToolPartArrowHead:1644, Wood Arrow Head
 TGregworks:tGregToolPartArrowHead:1599, Wrought Iron Arrow Head
 TGregworks:tGregToolPartArrowHead:1600, Sealed Wood Arrow Head
 TGregworks:tGregToolPartArrowHead:1601, Ironwood Arrow Head
@@ -19842,7 +19594,6 @@ TGregworks:tGregToolPartArrowHead:1602, Olivine Arrow Head
 TGregworks:tGregToolPartArrowHead:1603, Opal Arrow Head
 TGregworks:tGregToolPartArrowHead:1604, Amethyst Arrow Head
 TGregworks:tGregToolPartArrowHead:1605, Blaze Arrow Head
-TGregworks:tGregToolPartArrowHead:1645, Flint Arrow Head
 TGregworks:tGregToolPartArrowHead:1606, Shadowiron Arrow Head
 TGregworks:tGregToolPartArrowHead:1607, Shadowsteel Arrow Head
 TGregworks:tGregToolPartArrowHead:1608, Steeleaf Arrow Head
@@ -19880,10 +19631,8 @@ TGregworks:tGregToolPartShuriken:1501, Beryllium Shuriken
 TGregworks:tGregToolPartShuriken:1502, Bismuth Shuriken
 TGregworks:tGregToolPartShuriken:1503, Carbon Shuriken
 TGregworks:tGregToolPartShuriken:1504, Chrome Shuriken
-TGregworks:tGregToolPartShuriken:1638, Cobalt Shuriken
 TGregworks:tGregToolPartShuriken:1505, Gold Shuriken
 TGregworks:tGregToolPartShuriken:1506, Iridium Shuriken
-TGregworks:tGregToolPartShuriken:1639, Iron Shuriken
 TGregworks:tGregToolPartShuriken:1507, Lead Shuriken
 TGregworks:tGregToolPartShuriken:1508, Manganese Shuriken
 TGregworks:tGregToolPartShuriken:1509, Molybdenum Shuriken
@@ -19945,11 +19694,9 @@ TGregworks:tGregToolPartShuriken:1564, Prometheum Shuriken
 TGregworks:tGregToolPartShuriken:1565, Tritanium Shuriken
 TGregworks:tGregToolPartShuriken:1566, Vulcanite Shuriken
 TGregworks:tGregToolPartShuriken:1567, Vyroxeres Shuriken
-TGregworks:tGregToolPartShuriken:1640, Stone Shuriken
 TGregworks:tGregToolPartShuriken:1568, Osmiridium Shuriken
 TGregworks:tGregToolPartShuriken:1569, Blue Topaz Shuriken
 TGregworks:tGregToolPartShuriken:1570, Brass Shuriken
-TGregworks:tGregToolPartShuriken:1641, Bronze Shuriken
 TGregworks:tGregToolPartShuriken:1571, Cupronickel Shuriken
 TGregworks:tGregToolPartShuriken:1572, Deep Iron Shuriken
 TGregworks:tGregToolPartShuriken:1573, Diamond Shuriken
@@ -19960,7 +19707,6 @@ TGregworks:tGregToolPartShuriken:1577, Invar Shuriken
 TGregworks:tGregToolPartShuriken:1578, Kanthal Shuriken
 TGregworks:tGregToolPartShuriken:1579, Magnalium Shuriken
 TGregworks:tGregToolPartShuriken:1580, Nichrome Shuriken
-TGregworks:tGregToolPartShuriken:1642, Pig Iron Shuriken
 TGregworks:tGregToolPartShuriken:1581, Polyethylene Shuriken
 TGregworks:tGregToolPartShuriken:1582, Epoxy Resin Shuriken
 TGregworks:tGregToolPartShuriken:1583, Silicone Rubber Shuriken
@@ -19975,12 +19721,10 @@ TGregworks:tGregToolPartShuriken:1591, Polystyrene Shuriken
 TGregworks:tGregToolPartShuriken:1592, Styrene-Butadiene Rubber Shuriken
 TGregworks:tGregToolPartShuriken:1593, Polyvinyl Chloride Shuriken
 TGregworks:tGregToolPartShuriken:1594, Stainless Steel Shuriken
-TGregworks:tGregToolPartShuriken:1643, Steel Shuriken
 TGregworks:tGregToolPartShuriken:1595, Tanzanite Shuriken
 TGregworks:tGregToolPartShuriken:1596, Tin Alloy Shuriken
 TGregworks:tGregToolPartShuriken:1597, Topaz Shuriken
 TGregworks:tGregToolPartShuriken:1598, Ultimet Shuriken
-TGregworks:tGregToolPartShuriken:1644, Wood Shuriken
 TGregworks:tGregToolPartShuriken:1599, Wrought Iron Shuriken
 TGregworks:tGregToolPartShuriken:1600, Sealed Wood Shuriken
 TGregworks:tGregToolPartShuriken:1601, Ironwood Shuriken
@@ -19988,7 +19732,6 @@ TGregworks:tGregToolPartShuriken:1602, Olivine Shuriken
 TGregworks:tGregToolPartShuriken:1603, Opal Shuriken
 TGregworks:tGregToolPartShuriken:1604, Amethyst Shuriken
 TGregworks:tGregToolPartShuriken:1605, Blaze Shuriken
-TGregworks:tGregToolPartShuriken:1645, Flint Shuriken
 TGregworks:tGregToolPartShuriken:1606, Shadowiron Shuriken
 TGregworks:tGregToolPartShuriken:1607, Shadowsteel Shuriken
 TGregworks:tGregToolPartShuriken:1608, Steeleaf Shuriken
@@ -20026,10 +19769,8 @@ TGregworks:tGregToolPartCrossbowLimb:1501, Beryllium Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1502, Bismuth Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1503, Carbon Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1504, Chrome Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1638, Cobalt Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1505, Gold Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1506, Iridium Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1639, Iron Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1507, Lead Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1508, Manganese Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1509, Molybdenum Crossbow Limb
@@ -20091,11 +19832,9 @@ TGregworks:tGregToolPartCrossbowLimb:1564, Prometheum Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1565, Tritanium Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1566, Vulcanite Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1567, Vyroxeres Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1640, Stone Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1568, Osmiridium Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1569, Blue Topaz Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1570, Brass Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1641, Bronze Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1571, Cupronickel Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1572, Deep Iron Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1573, Diamond Crossbow Limb
@@ -20106,7 +19845,6 @@ TGregworks:tGregToolPartCrossbowLimb:1577, Invar Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1578, Kanthal Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1579, Magnalium Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1580, Nichrome Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1642, Pig Iron Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1581, Polyethylene Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1582, Epoxy Resin Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1583, Silicone Rubber Crossbow Limb
@@ -20121,12 +19859,10 @@ TGregworks:tGregToolPartCrossbowLimb:1591, Polystyrene Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1592, Styrene-Butadiene Rubber Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1593, Polyvinyl Chloride Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1594, Stainless Steel Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1643, Steel Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1595, Tanzanite Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1596, Tin Alloy Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1597, Topaz Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1598, Ultimet Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1644, Wood Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1599, Wrought Iron Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1600, Sealed Wood Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1601, Ironwood Crossbow Limb
@@ -20134,7 +19870,6 @@ TGregworks:tGregToolPartCrossbowLimb:1602, Olivine Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1603, Opal Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1604, Amethyst Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1605, Blaze Crossbow Limb
-TGregworks:tGregToolPartCrossbowLimb:1645, Flint Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1606, Shadowiron Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1607, Shadowsteel Crossbow Limb
 TGregworks:tGregToolPartCrossbowLimb:1608, Steeleaf Crossbow Limb
@@ -20172,10 +19907,8 @@ TGregworks:tGregToolPartCrossbowBody:1501, Beryllium Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1502, Bismuth Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1503, Carbon Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1504, Chrome Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1638, Cobalt Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1505, Gold Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1506, Iridium Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1639, Iron Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1507, Lead Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1508, Manganese Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1509, Molybdenum Crossbow Body
@@ -20237,11 +19970,9 @@ TGregworks:tGregToolPartCrossbowBody:1564, Prometheum Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1565, Tritanium Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1566, Vulcanite Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1567, Vyroxeres Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1640, Stone Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1568, Osmiridium Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1569, Blue Topaz Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1570, Brass Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1641, Bronze Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1571, Cupronickel Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1572, Deep Iron Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1573, Diamond Crossbow Body
@@ -20252,7 +19983,6 @@ TGregworks:tGregToolPartCrossbowBody:1577, Invar Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1578, Kanthal Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1579, Magnalium Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1580, Nichrome Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1642, Pig Iron Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1581, Polyethylene Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1582, Epoxy Resin Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1583, Silicone Rubber Crossbow Body
@@ -20267,12 +19997,10 @@ TGregworks:tGregToolPartCrossbowBody:1591, Polystyrene Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1592, Styrene-Butadiene Rubber Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1593, Polyvinyl Chloride Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1594, Stainless Steel Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1643, Steel Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1595, Tanzanite Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1596, Tin Alloy Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1597, Topaz Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1598, Ultimet Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1644, Wood Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1599, Wrought Iron Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1600, Sealed Wood Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1601, Ironwood Crossbow Body
@@ -20280,7 +20008,6 @@ TGregworks:tGregToolPartCrossbowBody:1602, Olivine Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1603, Opal Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1604, Amethyst Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1605, Blaze Crossbow Body
-TGregworks:tGregToolPartCrossbowBody:1645, Flint Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1606, Shadowiron Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1607, Shadowsteel Crossbow Body
 TGregworks:tGregToolPartCrossbowBody:1608, Steeleaf Crossbow Body
@@ -20318,10 +20045,8 @@ TGregworks:tGregToolPartBowLimb:1501, Beryllium Bow Limb
 TGregworks:tGregToolPartBowLimb:1502, Bismuth Bow Limb
 TGregworks:tGregToolPartBowLimb:1503, Carbon Bow Limb
 TGregworks:tGregToolPartBowLimb:1504, Chrome Bow Limb
-TGregworks:tGregToolPartBowLimb:1638, Cobalt Bow Limb
 TGregworks:tGregToolPartBowLimb:1505, Gold Bow Limb
 TGregworks:tGregToolPartBowLimb:1506, Iridium Bow Limb
-TGregworks:tGregToolPartBowLimb:1639, Iron Bow Limb
 TGregworks:tGregToolPartBowLimb:1507, Lead Bow Limb
 TGregworks:tGregToolPartBowLimb:1508, Manganese Bow Limb
 TGregworks:tGregToolPartBowLimb:1509, Molybdenum Bow Limb
@@ -20383,11 +20108,9 @@ TGregworks:tGregToolPartBowLimb:1564, Prometheum Bow Limb
 TGregworks:tGregToolPartBowLimb:1565, Tritanium Bow Limb
 TGregworks:tGregToolPartBowLimb:1566, Vulcanite Bow Limb
 TGregworks:tGregToolPartBowLimb:1567, Vyroxeres Bow Limb
-TGregworks:tGregToolPartBowLimb:1640, Stone Bow Limb
 TGregworks:tGregToolPartBowLimb:1568, Osmiridium Bow Limb
 TGregworks:tGregToolPartBowLimb:1569, Blue Topaz Bow Limb
 TGregworks:tGregToolPartBowLimb:1570, Brass Bow Limb
-TGregworks:tGregToolPartBowLimb:1641, Bronze Bow Limb
 TGregworks:tGregToolPartBowLimb:1571, Cupronickel Bow Limb
 TGregworks:tGregToolPartBowLimb:1572, Deep Iron Bow Limb
 TGregworks:tGregToolPartBowLimb:1573, Diamond Bow Limb
@@ -20398,7 +20121,6 @@ TGregworks:tGregToolPartBowLimb:1577, Invar Bow Limb
 TGregworks:tGregToolPartBowLimb:1578, Kanthal Bow Limb
 TGregworks:tGregToolPartBowLimb:1579, Magnalium Bow Limb
 TGregworks:tGregToolPartBowLimb:1580, Nichrome Bow Limb
-TGregworks:tGregToolPartBowLimb:1642, Pig Iron Bow Limb
 TGregworks:tGregToolPartBowLimb:1581, Polyethylene Bow Limb
 TGregworks:tGregToolPartBowLimb:1582, Epoxy Resin Bow Limb
 TGregworks:tGregToolPartBowLimb:1583, Silicone Rubber Bow Limb
@@ -20413,12 +20135,10 @@ TGregworks:tGregToolPartBowLimb:1591, Polystyrene Bow Limb
 TGregworks:tGregToolPartBowLimb:1592, Styrene-Butadiene Rubber Bow Limb
 TGregworks:tGregToolPartBowLimb:1593, Polyvinyl Chloride Bow Limb
 TGregworks:tGregToolPartBowLimb:1594, Stainless Steel Bow Limb
-TGregworks:tGregToolPartBowLimb:1643, Steel Bow Limb
 TGregworks:tGregToolPartBowLimb:1595, Tanzanite Bow Limb
 TGregworks:tGregToolPartBowLimb:1596, Tin Alloy Bow Limb
 TGregworks:tGregToolPartBowLimb:1597, Topaz Bow Limb
 TGregworks:tGregToolPartBowLimb:1598, Ultimet Bow Limb
-TGregworks:tGregToolPartBowLimb:1644, Wood Bow Limb
 TGregworks:tGregToolPartBowLimb:1599, Wrought Iron Bow Limb
 TGregworks:tGregToolPartBowLimb:1600, Sealed Wood Bow Limb
 TGregworks:tGregToolPartBowLimb:1601, Ironwood Bow Limb
@@ -20426,7 +20146,6 @@ TGregworks:tGregToolPartBowLimb:1602, Olivine Bow Limb
 TGregworks:tGregToolPartBowLimb:1603, Opal Bow Limb
 TGregworks:tGregToolPartBowLimb:1604, Amethyst Bow Limb
 TGregworks:tGregToolPartBowLimb:1605, Blaze Bow Limb
-TGregworks:tGregToolPartBowLimb:1645, Flint Bow Limb
 TGregworks:tGregToolPartBowLimb:1606, Shadowiron Bow Limb
 TGregworks:tGregToolPartBowLimb:1607, Shadowsteel Bow Limb
 TGregworks:tGregToolPartBowLimb:1608, Steeleaf Bow Limb
@@ -22669,116 +22388,116 @@ miscutils:itemCactusCharcoal, Cactus Charcoal
 miscutils:itemSugarCharcoal, Sugar Charcoal
 miscutils:itemCactusCoke, Cactus Coke
 miscutils:itemSugarCoke, Sugar Coke
-miscutils:itemCellHypogen, Hypogen Cell
-miscutils:itemCellIncoloy020, Incoloy-020 Cell
-miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
-miscutils:itemCellHG1223, HG-1223 Cell
-miscutils:itemCellAstatine, Astatine Cell
-miscutils:itemCellCinobiteA243, Cinobite A243 Cell
-miscutils:itemCellWatertightSteel, Watertight Steel Cell
-miscutils:itemCellRuthenium, Ruthenium Cell
-miscutils:itemCellBloodSteel, Blood Steel Cell
-miscutils:itemCellUranium233, Uranium 233 Cell
-miscutils:itemCellRhodium, Rhodium Cell
-miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
-miscutils:itemCellHastelloyW, Hastelloy-W Cell
-miscutils:itemCellPikyonium64B, Pikyonium 64B Cell
-miscutils:itemCellRhenium, Rhenium Cell
-miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
-miscutils:itemCellTechnetium, Technetium Cell
-miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
-miscutils:itemCellTumbaga, Tumbaga Cell
-miscutils:itemCellArcanite, Arcanite Cell
-miscutils:itemCellInconel625, Inconel-625 Cell
-miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
-miscutils:itemCellTeflon, Teflon Cell
-miscutils:itemCellTalonite, Talonite Cell
-miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
-miscutils:itemCellInconel792, Inconel-792 Cell
-miscutils:itemCellZirconium, Zirconium Cell
-miscutils:itemCellFrancium, Francium Cell
-miscutils:itemCellStaballoy, Staballoy Cell
-miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
-miscutils:itemCellSelenium, Selenium Cell
-miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
-miscutils:itemCellTitansteel, Titansteel Cell
-miscutils:itemCellPolonium, Polonium Cell
-miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
-miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
-miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
-miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
-miscutils:itemCellDragonblood, Dragonblood Cell
-miscutils:itemCellCarbyne, Carbyne Cell
-miscutils:itemCellSeleniousAcid, Selenious Acid Cell
-miscutils:itemCellBlackMetal, Black Metal Cell
-miscutils:itemCellNeptunium, Neptunium Cell
-miscutils:itemCellCalifornium, Californium Cell
-miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
-miscutils:itemCellGermanium, Germanium Cell
-miscutils:itemCellAmericium241, Americium 241 Cell
-miscutils:itemCellUranium232, Uranium 232 Cell
-miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
-miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
-miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
-miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
-miscutils:itemCellAstralTitanium, Astral Titanium Cell
-miscutils:itemCellChromaticGlass, Chromatic Glass Cell
-miscutils:itemCellIncoloyDS, Incoloy-DS Cell
-miscutils:itemCellEinsteinium, Einsteinium Cell
-miscutils:itemCellRhugnor, Rhugnor Cell
-miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
-miscutils:itemCellIodine, Iodine Cell
-miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
-miscutils:itemCellHastelloyN, Hastelloy-N Cell
-miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
-miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
-miscutils:itemCellRunite, Runite Cell
-miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
-miscutils:itemCellBlackTitanium, Black Titanium Cell
-miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
-miscutils:itemCellXenon, Xenon Cell
-miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
-miscutils:itemCellActinium, Actinium Cell
-miscutils:itemCellQuantum, Quantum Cell
-miscutils:itemCellInconel690, Inconel-690 Cell
-miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
-miscutils:itemCellThallium, Thallium Cell
-miscutils:itemCellKoboldite, Koboldite Cell
-miscutils:itemCellPlutonium238, Plutonium 238 Cell
-miscutils:itemCellNylon, Nylon Cell
-miscutils:itemCellRadium, Radium Cell
-miscutils:itemCellBerkelium, Berkelium Cell
-miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
-miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
 miscutils:itemCellEglinSteel, Eglin Steel Cell
-miscutils:itemCellEnergyCrystal, Energy Crystal Cell
-miscutils:itemCellFermium, Fermium Cell
-miscutils:itemCellZeron100, Zeron-100 Cell
-miscutils:itemCellGrisium, Grisium Cell
-miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
-miscutils:itemCellPlutonium239, Plutonium 239 Cell
-miscutils:itemCellCelestialTungsten, Celestial Tungsten Cell
-miscutils:itemCellNitinol60, Nitinol 60 Cell
-miscutils:itemCellPolonium210, Polonium 210 Cell
-miscutils:itemCellTantalloy60, Tantalloy-60 Cell
-miscutils:itemCellPotin, Potin Cell
-miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
-miscutils:itemCellOctiron, Octiron Cell
-miscutils:itemCellRefinedTrinium, Refined Trinium Cell
-miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
-miscutils:itemCellCurium, Curium Cell
-miscutils:itemCellNeon, Neon Cell
-miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
-miscutils:itemCellHastelloyX, Hastelloy-X Cell
-miscutils:itemCellWhiteMetal, White Metal Cell
+miscutils:itemCellRhodium, Rhodium Cell
+miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
+miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
+miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
 miscutils:itemCellStrontium90, Strontium 90 Cell
+miscutils:itemCellTantalloy60, Tantalloy-60 Cell
+miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
+miscutils:itemCellHG1223, HG-1223 Cell
+miscutils:itemCellRefinedTrinium, Refined Trinium Cell
+miscutils:itemCellHastelloyW, Hastelloy-W Cell
+miscutils:itemCellGrisium, Grisium Cell
+miscutils:itemCellStaballoy, Staballoy Cell
+miscutils:itemCellActinium, Actinium Cell
+miscutils:itemCellPolonium, Polonium Cell
+miscutils:itemCellDragonblood, Dragonblood Cell
+miscutils:itemCellPolonium210, Polonium 210 Cell
 miscutils:itemCellStellite, Stellite Cell
-miscutils:itemCellBakelite, Bakelite Cell
+miscutils:itemCellCurium, Curium Cell
+miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
+miscutils:itemCellSeleniousAcid, Selenious Acid Cell
+miscutils:itemCellCelestialTungsten, Celestial Tungsten Cell
+miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
+miscutils:itemCellOctiron, Octiron Cell
+miscutils:itemCellSelenium, Selenium Cell
+miscutils:itemCellHypogen, Hypogen Cell
+miscutils:itemCellBlackMetal, Black Metal Cell
+miscutils:itemCellPotin, Potin Cell
 miscutils:itemCellProtactinium, Protactinium Cell
-miscutils:itemCellTantalloy61, Tantalloy-61 Cell
-miscutils:itemCellHafnium, Hafnium Cell
-miscutils:itemCellLafiumCompound, Lafium Compound Cell
+miscutils:itemCellPlutonium238, Plutonium 238 Cell
+miscutils:itemCellThallium, Thallium Cell
+miscutils:itemCellPikyonium64B, Pikyonium 64B Cell
+miscutils:itemCellArcanite, Arcanite Cell
+miscutils:itemCellBloodSteel, Blood Steel Cell
+miscutils:itemCellCarbyne, Carbyne Cell
+miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
+miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
+miscutils:itemCellUranium233, Uranium 233 Cell
+miscutils:itemCellNitinol60, Nitinol 60 Cell
+miscutils:itemCellRhenium, Rhenium Cell
+miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
+miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
+miscutils:itemCellRunite, Runite Cell
+miscutils:itemCellRhugnor, Rhugnor Cell
+miscutils:itemCellQuantum, Quantum Cell
 miscutils:itemCellArceusAlloy2B, Arceus Alloy 2B Cell
+miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
+miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
+miscutils:itemCellIncoloy020, Incoloy-020 Cell
+miscutils:itemCellNeon, Neon Cell
+miscutils:itemCellNeptunium, Neptunium Cell
+miscutils:itemCellZirconium, Zirconium Cell
+miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
+miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
+miscutils:itemCellIodine, Iodine Cell
+miscutils:itemCellNylon, Nylon Cell
+miscutils:itemCellGermanium, Germanium Cell
+miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
+miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
+miscutils:itemCellAstatine, Astatine Cell
+miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
+miscutils:itemCellChromaticGlass, Chromatic Glass Cell
+miscutils:itemCellHastelloyX, Hastelloy-X Cell
+miscutils:itemCellEnergyCrystal, Energy Crystal Cell
+miscutils:itemCellTantalloy61, Tantalloy-61 Cell
+miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
+miscutils:itemCellTechnetium, Technetium Cell
+miscutils:itemCellInconel625, Inconel-625 Cell
+miscutils:itemCellInconel792, Inconel-792 Cell
+miscutils:itemCellTitansteel, Titansteel Cell
+miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
+miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
+miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
+miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
+miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
+miscutils:itemCellBakelite, Bakelite Cell
+miscutils:itemCellWatertightSteel, Watertight Steel Cell
+miscutils:itemCellIncoloyDS, Incoloy-DS Cell
+miscutils:itemCellTeflon, Teflon Cell
+miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
+miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
+miscutils:itemCellCinobiteA243, Cinobite A243 Cell
+miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
+miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
+miscutils:itemCellBlackTitanium, Black Titanium Cell
+miscutils:itemCellUranium232, Uranium 232 Cell
+miscutils:itemCellLafiumCompound, Lafium Compound Cell
+miscutils:itemCellEinsteinium, Einsteinium Cell
+miscutils:itemCellPlutonium239, Plutonium 239 Cell
+miscutils:itemCellFermium, Fermium Cell
+miscutils:itemCellTalonite, Talonite Cell
+miscutils:itemCellFrancium, Francium Cell
+miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellTumbaga, Tumbaga Cell
+miscutils:itemCellHastelloyN, Hastelloy-N Cell
+miscutils:itemCellKoboldite, Koboldite Cell
+miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
+miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
+miscutils:itemCellRadium, Radium Cell
+miscutils:itemCellInconel690, Inconel-690 Cell
+miscutils:itemCellCalifornium, Californium Cell
+miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
+miscutils:itemCellAstralTitanium, Astral Titanium Cell
+miscutils:itemCellBerkelium, Berkelium Cell
+miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
+miscutils:itemCellZeron100, Zeron-100 Cell
+miscutils:itemCellRuthenium, Ruthenium Cell
+miscutils:itemCellHafnium, Hafnium Cell
+miscutils:itemCellAmericium241, Americium 241 Cell
+miscutils:itemCellWhiteMetal, White Metal Cell
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:0, §dUltra Low Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:1, §dLow Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:2, §dMedium Voltage Machine Plate Cover
@@ -22898,6 +22617,9 @@ JABBA:upgradeStructural:3, item.upgrade.structural.4.name
 JABBA:upgradeStructural:4, item.upgrade.structural.5.name
 JABBA:upgradeStructural:5, item.upgrade.structural.6.name
 JABBA:upgradeStructural:6, item.upgrade.structural.7.name
+JABBA:upgradeStructural:7, item.upgrade.structural.8.name
+JABBA:upgradeStructural:8, item.upgrade.structural.9.name
+JABBA:upgradeStructural:9, item.upgrade.structural.10.name
 JABBA:upgradeCore:0, Storage upgrade
 JABBA:upgradeCore:1, BSpace upgrade
 JABBA:upgradeCore:2, Redstone upgrade
