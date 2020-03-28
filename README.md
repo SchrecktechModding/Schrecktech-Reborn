@@ -66,60 +66,60 @@ malisiscore-1.7.10-0.14.3 :\
 malisisdoors-1.7.10-1.13.2 :\
 Mantle-1.7.10-0.3.2b :\
 MineTweakerRecipeMaker-1.7.10-1.1.1 :\
-MobAmputation-4.0.1 :\
-MobDismemberment-4.0.0 :\
-ModpackConfigurationChecker-1.7.10-v1.5.3 :\
-MoreChisels-1.7.10-1.0-28 :\
-Morpheus-1.7.10-1.6.21 :\
-MouseTweaks-2.4.4-mc1.7.10 :\
-natura-1.7.10-2.2.1a2 :\
-NaturesCompass-1.7.10-1.3.1 :\
-Neat+1.0-1 :\
-netherportalfix-mc1.7.10-1.1.0 :\
-NoMoreRecipeConflict-0.3(1.7.10) :\
-NotEnoughIDs-1.4.3.4 :\
-NotEnoughItems-1.7.10-1.0.5.120-universal :\
-NotEnoughKeys-1.7.10-3.0.0b45-dev-universal :\
-NotEnoughResources-1.7.10-0.1.0-128 :\
-OpenBlocks-1.7.10-1.6 :\
-OpenComputers-MC1.7.10-1.7.5.1290-universal :\
-OpenModsLib-1.7.10-0.10.1 :\
-OpenModularTurrets-1.7.10-2.2.11-245 :\
-p455w0rdslib-1.7.10-1.0.4 :\
-Pam's+Get+all+the+Seeds+1.7.10a :\
-Pam's+Harvest+the+Nether+1.7.10a :\
-Pam's+HarvestCraft+1.7.10Lb :\
-PerfectSpawn-1.1 :\
-Practical-Logistics-1.7.10-0.2.4 :\
-ProjectRed-1.7.10-4.7.0pre12.95-Base :\
-ProjectRed-1.7.10-4.7.0pre12.95-Compat :\
-ProjectRed-1.7.10-4.7.0pre12.95-Integration :\
-ProjectRed-1.7.10-4.7.0pre12.95-Lighting :\
-ProjectRed-1.7.10-4.7.0pre12.95-World :\
-Railcraft_1.7.10-9.12.2.1 :\
-RandomThings-2.2.4 :\
-ReAuth-3.5.0 :\
-roguelike-1.7.10-1.5.0b :\
-RTG-1.7.10-1.1.1.7 :\
-SonarCore-1.7.10-1.1.3 :\
-Streams-1.7.10-0.3.4 :\
-TConstruct-1.7.10-1.8.8.build991 :\
-TGregworks-1.7.10-1.0.18 :\
-TiCTooltips-mc1.7.10-1.2.5 :\
-Waila-1.5.10_1.7.10 :\
-WAILA-features-1.7.10-0.1.0 :\
-WarpDrive-1.7.10-1.4.2 :\
-Wawla-1.0.5.120 :\
-WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b :\
-zombieawareness-1.7.10-1.10 :\
-Ztones-1.7.10-2.2.1 :\
-[1.7.10]ArmorStatusHUD-client-1.28 :\
-[1.7.10]MoVillages-1.4.2 :\
-[1.7.10]StartingInventory-universal-1.7.10.r03 :\
-[1.7.10]StatusEffectHUD-client-1.27 :\
-CodeChickenLib-1.7.10-1.1.3.138-universal :\
-ForgeMultipart-1.7.10-1.2.0.347-universal :\
-MrTJPCore-1.7.10-1.1.0.33-universal :\
-YuutoLib-1.7.10-1.0.3	:\
-[1.7.10]bspkrsCore-universal-6.16 :\
-EJML-core-0.26 :
+MobAmputation-4.0.1 : https://www.curseforge.com/minecraft/mc-mods/mob-amputation\
+MobDismemberment-4.0.0 : https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment\
+ModpackConfigurationChecker-1.7.10-v1.5.3 : https://www.curseforge.com/minecraft/mc-mods/config-checker\
+MoreChisels-1.7.10-1.0-28 : https://www.curseforge.com/minecraft/mc-mods/morechisels\
+Morpheus-1.7.10-1.6.21 : https://www.curseforge.com/minecraft/mc-mods/morpheus\
+MouseTweaks-2.4.4-mc1.7.10 : https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files, https://www.curseforge.com/project/60089/license\
+natura-1.7.10-2.2.1a2 : https://www.curseforge.com/minecraft/mc-mods/natura\
+NaturesCompass-1.7.10-1.3.1 : https://www.curseforge.com/minecraft/mc-mods/natures-compass\
+Neat+1.0-1 : https://www.curseforge.com/minecraft/mc-mods/neat\
+netherportalfix-mc1.7.10-1.1.0 : https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files\
+NoMoreRecipeConflict-0.3(1.7.10) : https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict\
+NotEnoughIDs-1.4.3.4 : https://www.curseforge.com/minecraft/mc-mods/notenoughids\
+NotEnoughItems-1.7.10-1.0.5.120-universal : \
+NotEnoughKeys-1.7.10-3.0.0b45-dev-universal : https://www.curseforge.com/minecraft/mc-mods/notenoughkeys\
+NotEnoughResources-1.7.10-0.1.0-128 : https://www.curseforge.com/minecraft/mc-mods/notenoughresources/files\
+OpenBlocks-1.7.10-1.6 : https://www.curseforge.com/minecraft/mc-mods/openblocks\
+OpenComputers-MC1.7.10-1.7.5.1290-universal : https://www.curseforge.com/minecraft/mc-mods/opencomputers\
+OpenModsLib-1.7.10-0.10.1 : https://www.curseforge.com/minecraft/mc-mods/openmodslib/files\
+OpenModularTurrets-1.7.10-2.2.11-245 : https://www.curseforge.com/minecraft/mc-mods/openmodularturrets\
+p455w0rdslib-1.7.10-1.0.4 : https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library\
+Pam's+Get+all+the+Seeds+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-get-all-the-seeds\
+Pam's+Harvest+the+Nether+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-harvest-the-nether\
+Pam's+HarvestCraft+1.7.10Lb : https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft\
+PerfectSpawn-1.1 : https://www.curseforge.com/minecraft/mc-mods/perfect-spawn\
+Practical-Logistics-1.7.10-0.2.4 : https://github.com/SonarSonic/Practical-Logistics/wiki\
+ProjectRed-1.7.10-4.7.0pre12.95-Base : https://projectredwiki.com/wiki/Main_Page\
+ProjectRed-1.7.10-4.7.0pre12.95-Compat : https://projectredwiki.com/wiki/Main_Page\
+ProjectRed-1.7.10-4.7.0pre12.95-Integration : https://projectredwiki.com/wiki/Main_Page\
+ProjectRed-1.7.10-4.7.0pre12.95-Lighting : https://projectredwiki.com/wiki/Main_Page\
+ProjectRed-1.7.10-4.7.0pre12.95-World : https://projectredwiki.com/wiki/Main_Page\
+Railcraft_1.7.10-9.12.2.1 : http://railcraft.info/wiki/info:license\
+RandomThings-2.2.4 : https://www.curseforge.com/minecraft/mc-mods/random-things\
+ReAuth-3.5.0 : https://www.curseforge.com/minecraft/mc-mods/reauth\
+roguelike-1.7.10-1.5.0b : https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons\
+RTG-1.7.10-1.1.1.7 : https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation\
+SonarCore-1.7.10-1.1.3 : https://www.curseforge.com/minecraft/mc-mods/sonar-core\
+Streams-1.7.10-0.3.4 : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2346379-streams-real-flowing-rivers\
+TConstruct-1.7.10-1.8.8.build991 : https://www.curseforge.com/minecraft/mc-mods/tinkers-construct\
+TGregworks-1.7.10-1.0.18 : https://github.com/Vexatos/TinkersGregworks\
+TiCTooltips-mc1.7.10-1.2.5 : https://www.curseforge.com/minecraft/mc-mods/tic-tooltips\
+Waila-1.5.10_1.7.10 : https://www.curseforge.com/minecraft/mc-mods/waila\
+WAILA-features-1.7.10-0.1.0 : https://www.curseforge.com/minecraft/mc-mods/waila-features\
+WarpDrive-1.7.10-1.4.2 : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2510855-warpdrive-custom-ships-laser-cannons-and-modular\
+Wawla-1.0.5.120 : https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at\
+WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b : https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal\
+zombieawareness-1.7.10-1.10 : https://coros.us/mods/\
+Ztones-1.7.10-2.2.1 : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x\
+[1.7.10]ArmorStatusHUD-client-1.28 : https://www.curseforge.com/minecraft/mc-mods/armorstatushud\
+[1.7.10]MoVillages-1.4.2 : https://www.curseforge.com/minecraft/mc-mods/mo-villages\
+[1.7.10]StartingInventory-universal-1.7.10.r03 : https://www.curseforge.com/minecraft/mc-mods/startinginventory\
+[1.7.10]StatusEffectHUD-client-1.27 : https://www.curseforge.com/minecraft/mc-mods/statuseffecthud\
+CodeChickenLib-1.7.10-1.1.3.138-universal : https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8\
+ForgeMultipart-1.7.10-1.2.0.347-universal : https://www.curseforge.com/minecraft/mc-mods/forge-multi-part\
+MrTJPCore-1.7.10-1.1.0.33-universal : https://projectredwiki.com/wiki/Main_Page\
+YuutoLib-1.7.10-1.0.3	: https://www.curseforge.com/minecraft/mc-mods/yuutolib\
+[1.7.10]bspkrsCore-universal-6.16 : https://www.curseforge.com/minecraft/mc-mods/bspkrscore\
+EJML-core-0.26 : http://ejml.org/wiki/index.php?title=Main_Page
