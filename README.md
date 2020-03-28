@@ -119,7 +119,6 @@ Ztones-1.7.10-2.2.1 :\
 [1.7.10]StartingInventory-universal-1.7.10.r03 :\
 [1.7.10]StatusEffectHUD-client-1.27 :\
 CodeChickenLib-1.7.10-1.1.3.138-universal :\
-CodingLib-0.2.8b50 :\
 ForgeMultipart-1.7.10-1.2.0.347-universal :\
 MrTJPCore-1.7.10-1.1.0.33-universal :\
 YuutoLib-1.7.10-1.0.3	:\
