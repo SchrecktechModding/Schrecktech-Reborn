@@ -1,0 +1,13 @@
+#ingots
+mods.nei.NEI.hide(<Railcraft:ingot:1>);
+mods.nei.NEI.hide(<IC2:itemIngot>);
+mods.nei.NEI.hide(<TConstruct:materials:9>);
+mods.nei.NEI.hide(<Forestry:ingotCopper>);
+mods.nei.NEI.hide(<ProjRed|Core:projectred.core.part:52>);
+#gears
+mods.nei.NEI.hide(<Forestry:gearBronze>);
+mods.nei.NEI.hide(<Forestry:gearCopper>);
+mods.nei.NEI.hide(<Forestry:gearTin>);
+#PracticalLogistics
+mods.nei.NEI.hide(<PracticalLogistics:StonePlate>);
+mods.nei.NEI.hide(<PracticalLogistics:Hammer>);
