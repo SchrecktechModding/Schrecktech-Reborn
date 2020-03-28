@@ -85,7 +85,6 @@ OpenBlocks-1.7.10-1.6 :\
 OpenComputers-MC1.7.10-1.7.5.1290-universal :\
 OpenModsLib-1.7.10-0.10.1 :\
 OpenModularTurrets-1.7.10-2.2.11-245 :\
-OptiFine_1.7.10_HD_U_E7 :\
 p455w0rdslib-1.7.10-1.0.4 :\
 Pam's+Get+all+the+Seeds+1.7.10a :\
 Pam's+Harvest+the+Nether+1.7.10a :\
