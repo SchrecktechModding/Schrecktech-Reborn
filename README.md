@@ -1,11 +1,11 @@
 # Schrecktech-Reborn
-the 4th iteration of Schrecktech, calling back to the spirit of the original.
+## the 4th iteration of Schrecktech, calling back to the spirit of the original.
 
 as the mod selection is not completely done jet, there might be drastic changes to them in the future, although the progression system will mostly stay the same.
 
 Please read the changelog carefully to see if important parts of your base will break before updating!
 
-Credit for all mods go to their respective owners.
+## Credit for all mods go to their respective owners.
 
 AIImprovements-1.7.10-0.0.1b8 : https://www.curseforge.com/minecraft/mc-mods/ai-improvements, http://www.builtbroken.com/pages/modpack.php \
 AppleCore-mc1.7.10-3.1.1 : https://www.curseforge.com/minecraft/mc-mods/applecore \
