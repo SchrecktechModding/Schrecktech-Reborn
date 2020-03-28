@@ -6,66 +6,66 @@ to sign up for beta acces, please contact us.
 
 Credit for all mods go to their respective owners.
 
-AIImprovements-1.7.10-0.0.1b8 :\
-AppleCore-mc1.7.10-3.1.1 :\
-appliedenergistics2-rv3-beta-6 :\
-ArchitectureCraft-1.7.2-mc1.7.10 :\
-Aroma1997Core-1.7.10-1.0.2.16 :\
-Aroma1997s-Dimensional-World-1.7.10-1.1.0.1 :\
-AromaBackup-1.7.10-0.1.0.0 :\
-AsieLib-1.7.10-0.4.7 :\
-Baubles-1.7.10-1.0.1.10 :\
-bdlib-1.9.4.109-mc1.7.10 :\
-BetterBuildersWands-0.8.1-1.7.10r92+aec06c3 :\
-biggerpacketsplz-upto1.7.10-1.2 :\
-bigtrees-0.2-1.7.10 :\
-binnie-mods-1.7.10-2.0.22.7 :\
-BiomesOPlenty-1.7.10-2.1.0.2308-universal :\
-BrandonsCore-1.0.0.12 :\
-Carpenters-Blocks-Mod-1.7.10 :\
-Chisel-2.9.5.11 :\
-ChiselTones-1.7.10-1.0-3 :\
-CodeChickenCore-1.7.10-1.0.7.47-universal :\
-CodingLib-0.2.8b50 :\
-CoFHCore-[1.7.10]3.1.4-329 :\
-Controlling-1.7.10-1.0.0 :\
-cookingbook-mc1.7.10-1.0.140 :\
-coroutil-1.7.10-1.1.6 :\
-craftingtweaks-mc1.7.10-1.0.88 :\
-CraftTweaker-1.7.10-3.1.0-legacy :\
-CustomMainMenu-MC1.7.10-1.9.2 :\
-Draconic-Evolution-1.7.10-1.0.2h :\
-EnchantingPlus-1.7.10-3.0.2-d :\
-EnderStorage-1.7.10-1.4.7.37-universal :\
-EnhancedPortals_1.7.10-universal-3.0.12 :\
-externaltweaker-1.7.10-0.3 :\
-extrabiomesxl_1.7.10-3.16.4 :\
-ExtraCells-1.7.10-2.3.14b200 :\
-extrautilities-1.2.12 :\
-Farseek-1.7.10-2.0.1 :\
-forestry_1.7.10-4.2.16.64 :\
-Framez-1.7.10-0.2-32-hotfix-universal :\
-GlobalGameRules-1.0 :\
-gregtech-5.09.32pre6 :\
-GT-PlusPlus-1.7.04.483 :\
-GTTweaker-1.7.10-1.7.2 :\
-HardcoreDarkness-MC1.7.10-1.7 :\
-HelpFixer-1.0.7 :\
-IC2NuclearControl-2.4.3a :\
-iChunUtil-4.2.3 :\
-industrialcraft-2-2.2.828-experimental :\
-InfernalMobs-1.7.10 :\
-Infini-TiC-1.7.10-0.1.5.DEV.324b697 :\
-INpureCore-[1.7.10]1.0.0B9-62 :\
-InventoryTweaks-1.59-dev-152 :\
-ironchest-1.7.10-6.0.62.742-universal :\
-Jabba-1.2.2_1.7.10 :\
-journeymap-1.7.10-5.1.4p2-unlimited :\
-magicbees-1.7.10-2.4.4 :\
-malisiscore-1.7.10-0.14.3 :\
-malisisdoors-1.7.10-1.13.2 :\
-Mantle-1.7.10-0.3.2b :\
-MineTweakerRecipeMaker-1.7.10-1.1.1 :\
+AIImprovements-1.7.10-0.0.1b8 : https://www.curseforge.com/minecraft/mc-mods/ai-improvements, http://www.builtbroken.com/pages/modpack.php \
+AppleCore-mc1.7.10-3.1.1 : https://www.curseforge.com/minecraft/mc-mods/applecore \
+appliedenergistics2-rv3-beta-6 : https://ae-mod.info/ \
+ArchitectureCraft-1.7.2-mc1.7.10 : http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ArchitectureCraft/#mozTocId562636 \
+Aroma1997Core-1.7.10-1.0.2.16 : https://www.curseforge.com/minecraft/mc-mods/aroma1997core \
+Aroma1997s-Dimensional-World-1.7.10-1.1.0.1 : https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world \
+AromaBackup-1.7.10-0.1.0.0 : https://www.curseforge.com/minecraft/mc-mods/aromabackup \
+AsieLib-1.7.10-0.4.7 : https://wiki.vexatos.com/wiki:licensing \
+Baubles-1.7.10-1.0.1.10 : https://www.curseforge.com/minecraft/mc-mods/baubles \
+bdlib-1.9.4.109-mc1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bdlib \
+BetterBuildersWands-0.8.1-1.7.10r92+aec06c3 : https://www.curseforge.com/minecraft/mc-mods/better-builders-wands \
+biggerpacketsplz-upto1.7.10-1.2 : https://www.curseforge.com/minecraft/mc-mods/bigger-packets-please \
+bigtrees-0.2-1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bigtrees \
+binnie-mods-1.7.10-2.0.22.7 : https://www.curseforge.com/minecraft/mc-mods/binnies-mods \
+BiomesOPlenty-1.7.10-2.1.0.2308-universal : https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty \
+BrandonsCore-1.0.0.12 : https://www.curseforge.com/minecraft/mc-mods/brandons-core \
+Carpenters-Blocks-Mod-1.7.10 : https://www.carpentersblocks.com/ \
+Chisel-2.9.5.11 : https://www.curseforge.com/minecraft/mc-mods/chisel \
+ChiselTones-1.7.10-1.0-3 : https://www.curseforge.com/minecraft/mc-mods/chiseltones \
+CodeChickenCore-1.7.10-1.0.7.47-universal : https://github.com/Chicken-Bones/CodeChickenLib/blob/master/LICENSE \
+CodingLib-0.2.8b50 : http://api.dmodoomsirius.me/com/builtbroken/codinglib/CodingLib/ \
+CoFHCore-[1.7.10]3.1.4-329 : http://teamcofh.com/downloads/ \
+Controlling-1.7.10-1.0.0 : https://www.curseforge.com/minecraft/mc-mods/controlling \
+cookingbook-mc1.7.10-1.0.140 : https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads \
+coroutil-1.7.10-1.1.6 : https://www.curseforge.com/minecraft/mc-mods/coroutil \
+craftingtweaks-mc1.7.10-1.0.88 : https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks \
+CraftTweaker-1.7.10-3.1.0-legacy : https://www.curseforge.com/minecraft/mc-mods/crafttweaker \
+CustomMainMenu-MC1.7.10-1.9.2 : https://www.curseforge.com/minecraft/mc-mods/custom-main-menu \
+Draconic-Evolution-1.7.10-1.0.2h : https://www.curseforge.com/minecraft/mc-mods/draconic-evolution \
+EnchantingPlus-1.7.10-3.0.2-d : https://www.curseforge.com/minecraft/mc-mods/enchanting-plus \
+EnderStorage-1.7.10-1.4.7.37-universal : https://github.com/TheCBProject/EnderStorage \
+EnhancedPortals_1.7.10-universal-3.0.12 : https://www.curseforge.com/minecraft/mc-mods/enhanced-portals-3 \
+externaltweaker-1.7.10-0.3 : https://www.curseforge.com/minecraft/mc-mods/external-tweaker \
+extrabiomesxl_1.7.10-3.16.4 : https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl \
+ExtraCells-1.7.10-2.3.14b200 : https://www.curseforge.com/minecraft/mc-mods/extracells2 \
+extrautilities-1.2.12 :  \
+Farseek-1.7.10-2.0.1 : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2346379-streams-real-flowing-rivers \
+forestry_1.7.10-4.2.16.64 : https://forestryforminecraft.info/main:downloads?s[]=modpack \
+Framez-1.7.10-0.2-32-hotfix-universal : https://www.curseforge.com/minecraft/mc-mods/framez \
+GlobalGameRules-1.0 : https://www.curseforge.com/minecraft/mc-mods/global-gamerules \
+gregtech-5.09.32pre6 : http://gregtech.overminddl1.com/com/gregoriust/gregtech/gregtech_1.7.10/index.html \
+GT-PlusPlus-1.7.04.483 : https://github.com/alkcorp/GTplusplus \
+GTTweaker-1.7.10-1.7.2 : https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon \
+HardcoreDarkness-MC1.7.10-1.7 : https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness \
+HelpFixer-1.0.7 : https://www.curseforge.com/minecraft/mc-mods/helpfixer/files/2223813 \
+IC2NuclearControl-2.4.3a : https://www.curseforge.com/minecraft/mc-mods/nuclear-control-2, https://github.com/xbony2/Nuclear-Control/blob/master/LICENSE \
+iChunUtil-4.2.3 : https://www.curseforge.com/minecraft/mc-mods/ichunutil \
+industrialcraft-2-2.2.828-experimental : https://wiki.industrial-craft.net/index.php?title=Industrial-Craft-Wiki:About \
+InfernalMobs-1.7.10 : http://atomicstryker.net/about.php \
+Infini-TiC-1.7.10-0.1.5.DEV.324b697 : https://www.curseforge.com/minecraft/mc-mods/infini-tic \
+INpureCore-[1.7.10]1.0.0B9-62 : https://www.curseforge.com/minecraft/mc-mods/inpurecore \
+InventoryTweaks-1.59-dev-152 : https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/all?filter-game-version=2020709689%3A4449 \
+ironchest-1.7.10-6.0.62.742-universal : https://www.curseforge.com/minecraft/mc-mods/iron-chests \
+Jabba-1.2.2_1.7.10 :https://www.curseforge.com/minecraft/mc-mods/jabba \
+journeymap-1.7.10-5.1.4p2-unlimited : https://journeymap.info/Modpack_FAQ \
+magicbees-1.7.10-2.4.4 : https://www.curseforge.com/minecraft/mc-mods/magic-bees \
+malisiscore-1.7.10-0.14.3 : https://www.curseforge.com/minecraft/mc-mods/malisiscore \
+malisisdoors-1.7.10-1.13.2 : https://www.curseforge.com/minecraft/mc-mods/malisisdoors \
+Mantle-1.7.10-0.3.2b : https://www.curseforge.com/minecraft/mc-mods/mantle \
+MineTweakerRecipeMaker-1.7.10-1.1.1 : https://www.curseforge.com/minecraft/mc-mods/minetweaker-recipemaker, https://www.curseforge.com/project/226294/license \
 MobAmputation-4.0.1 : https://www.curseforge.com/minecraft/mc-mods/mob-amputation \
 MobDismemberment-4.0.0 : https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment \
 ModpackConfigurationChecker-1.7.10-v1.5.3 : https://www.curseforge.com/minecraft/mc-mods/config-checker \
