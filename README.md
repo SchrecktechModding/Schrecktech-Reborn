@@ -37,7 +37,6 @@ Please read the changelog carefully to see if important parts of your base will 
 - CustomMainMenu-MC1.7.10-1.9.2 : https://www.curseforge.com/minecraft/mc-mods/custom-main-menu
 - Draconic-Evolution-1.7.10-1.0.2h : https://www.curseforge.com/minecraft/mc-mods/draconic-evolution
 - EnchantingPlus-1.7.10-3.0.2-d : https://www.curseforge.com/minecraft/mc-mods/enchanting-plus
-- EnderStorage-1.7.10-1.4.7.37-universal : https://github.com/TheCBProject/EnderStorage
 - EnhancedPortals_1.7.10-universal-3.0.12 : https://www.curseforge.com/minecraft/mc-mods/enhanced-portals-3
 - externaltweaker-1.7.10-0.3 : https://www.curseforge.com/minecraft/mc-mods/external-tweaker
 - extrabiomesxl_1.7.10-3.16.4 : https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl
