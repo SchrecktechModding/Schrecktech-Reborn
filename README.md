@@ -37,7 +37,6 @@ Please read the changelog carefully to see if important parts of your base will 
 - CustomMainMenu-MC1.7.10-1.9.2 : https://www.curseforge.com/minecraft/mc-mods/custom-main-menu
 - Draconic-Evolution-1.7.10-1.0.2h : https://www.curseforge.com/minecraft/mc-mods/draconic-evolution
 - EnchantingPlus-1.7.10-3.0.2-d : https://www.curseforge.com/minecraft/mc-mods/enchanting-plus
-- EnderStorage-1.7.10-1.4.7.37-universal : https://github.com/TheCBProject/EnderStorage
 - EnhancedPortals_1.7.10-universal-3.0.12 : https://www.curseforge.com/minecraft/mc-mods/enhanced-portals-3
 - externaltweaker-1.7.10-0.3 : https://www.curseforge.com/minecraft/mc-mods/external-tweaker
 - extrabiomesxl_1.7.10-3.16.4 : https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl
@@ -48,7 +47,7 @@ Please read the changelog carefully to see if important parts of your base will 
 - Framez-1.7.10-0.2-32-hotfix-universal : https://www.curseforge.com/minecraft/mc-mods/framez
 - GlobalGameRules-1.0 : https://www.curseforge.com/minecraft/mc-mods/global-gamerules
 - gregtech-5.09.32pre6 : http://gregtech.overminddl1.com/com/gregoriust/gregtech/gregtech_1.7.10/index.html
-- GT-PlusPlus-1.7.05.19.jar : https://github.com/alkcorp/GTplusplus
+- GT-PlusPlus-1.7.05.42.jar : https://github.com/alkcorp/GTplusplus
 - GTTweaker-1.7.10-1.7.2 : https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon
 - HardcoreDarkness-MC1.7.10-1.7 : https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness
 - HelpFixer-1.0.7 : https://www.curseforge.com/minecraft/mc-mods/helpfixer/files/2223813
