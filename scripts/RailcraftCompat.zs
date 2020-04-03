@@ -1,1 +1,0 @@
-furnace.remove(<ore:nuggetSteel>);
