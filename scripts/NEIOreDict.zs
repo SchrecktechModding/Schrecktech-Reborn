@@ -1,5 +1,4 @@
 #ingots
-mods.nei.NEI.hide(<Railcraft:ingot:1>);
 mods.nei.NEI.hide(<IC2:itemIngot>);
 mods.nei.NEI.hide(<TConstruct:materials:9>);
 mods.nei.NEI.hide(<Forestry:ingotCopper>);
