@@ -78,7 +78,7 @@ Please read the changelog carefully to see if important parts of your base will 
 - netherportalfix-mc1.7.10-1.1.0 : https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files
 - NoMoreRecipeConflict-0.3(1.7.10) : https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict
 - NotEnoughIDs-1.4.3.4 : https://www.curseforge.com/minecraft/mc-mods/notenoughids
-- NotEnoughItems-1.7.10-2.0.1-GTNH-universal : https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh
+- NotEnoughItems - GTNH-1.7.10-2.0.1 : https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh/files/all?filter-game-version=2020709689%3A4449
 - NotEnoughKeys-1.7.10-3.0.0b45-dev-universal : https://www.curseforge.com/minecraft/mc-mods/notenoughkeys
 - NotEnoughResources-1.7.10-0.1.0-128 : https://www.curseforge.com/minecraft/mc-mods/notenoughresources/files
 - OpenBlocks-1.7.10-1.6 : https://www.curseforge.com/minecraft/mc-mods/openblocks
