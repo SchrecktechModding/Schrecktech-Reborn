@@ -1,3 +1,3 @@
 git reset --hard
-git pull origin server
+git pull origin Server
 pause
