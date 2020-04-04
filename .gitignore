@@ -23,5 +23,16 @@ updateLog.txt
 usernamecache.json
 optionsof.txt
 options.txt
-.github
 config/NEI/bookmarks.ini
+World*
+server.properties
+minecraft_server*
+forge*
+eula.txt
+whitelist.json
+usercache.json
+ops.json
+startup.bat
+banned-ips.json
+banned-players.json
+.github
