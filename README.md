@@ -20,7 +20,7 @@ Please read the changelog carefully to see if important parts of your base will 
 - BetterBuildersWands-0.8.1-1.7.10r92+aec06c3 : https://www.curseforge.com/minecraft/mc-mods/better-builders-wands
 - biggerpacketsplz-upto1.7.10-1.2 : https://www.curseforge.com/minecraft/mc-mods/bigger-packets-please
 - bigtrees-0.2-1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bigtrees
-- binnie-mods-1.7.10-2.0.22.7 : https://www.curseforge.com/minecraft/mc-mods/binnies-mods
+- binnies-mods-1.7.10-2.0.22.7 : https://www.curseforge.com/minecraft/mc-mods/binnies-mods
 - BiomesOPlenty-1.7.10-2.1.0.2308-universal : https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 - BrandonsCore-1.0.0.12 : https://www.curseforge.com/minecraft/mc-mods/brandons-core
 - Carpenters-Blocks-Mod-1.7.10 : https://www.carpentersblocks.com/
