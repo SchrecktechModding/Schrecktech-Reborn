@@ -14,7 +14,6 @@ Please read the changelog carefully to see if important parts of your base will 
 - Aroma1997Core-1.7.10-1.0.2.16 : https://www.curseforge.com/minecraft/mc-mods/aroma1997core
 - Aroma1997s-Dimensional-World-1.7.10-1.1.0.1 : https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world
 - AromaBackup-1.7.10-0.1.0.0 : https://www.curseforge.com/minecraft/mc-mods/aromabackup
-- AsieLib-1.7.10-0.4.7 : https://wiki.vexatos.com/wiki:licensing
 - Baubles-1.7.10-1.0.1.10 : https://www.curseforge.com/minecraft/mc-mods/baubles
 - bdlib-1.9.4.109-mc1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bdlib
 - BetterBuildersWands-0.8.1-1.7.10r92+aec06c3 : https://www.curseforge.com/minecraft/mc-mods/better-builders-wands
