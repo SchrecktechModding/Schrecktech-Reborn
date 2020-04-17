@@ -88,7 +88,6 @@ Please read the changelog carefully to see if important parts of your base will 
 - Pam's+Get+all+the+Seeds+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-get-all-the-seeds
 - Pam's+Harvest+the+Nether+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-harvest-the-nether
 - Pam's+HarvestCraft+1.7.10Lb : https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft
-- PerfectSpawn-1.1 : https://www.curseforge.com/minecraft/mc-mods/perfect-spawn
 - Practical-Logistics-1.7.10-0.2.4 : https://github.com/SonarSonic/Practical-Logistics/wiki
 - ProjectRed-1.7.10-4.7.0pre12.95-Base : https://projectredwiki.com/wiki/Main_Page
 - ProjectRed-1.7.10-4.7.0pre12.95-Compat : https://projectredwiki.com/wiki/Main_Page
