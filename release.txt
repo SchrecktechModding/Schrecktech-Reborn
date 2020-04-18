@@ -44,7 +44,7 @@ mods\forestry_1.7.10-4.2.16.64.jar			https://media.forgecdn.net/files/2333/823/f
 mods\Framez-1.7.10-0.2-32-hotfix-universal.jar		https://media.forgecdn.net/files/2252/712/Framez-1.7.10-0.2-32-hotfix-universal.jar							2020/04/11 21:42
 mods\GlobalGameRules-1.0.jar				https://media.forgecdn.net/files/2226/680/GlobalGameRules-1.0.jar									2020/04/11 21:42
 mods\gregtech-5.09.32pre5.jar				https://dl.dropboxusercontent.com/s/ohqburjdcsjvlkk/gregtech-5.09.32pre5.jar								2020/04/11 21:42
-mods\GT-PlusPlus-1.7.05.19.jar				https://cdn.discordapp.com/attachments/393464498607882243/691014758043877496/GT-PlusPlus-1.7.05.19.jar					2020/04/11 21:42
+mods\GT-PlusPlus-1.7.05.19.jar				https://dl.dropboxusercontent.com/s/qqqa4rhbe2aomf1/GT-PlusPlus-1.7.05.19.jar								2020/04/11 21:42
 mods\GTTweaker-1.7.10-1.7.2.jar				https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon/releases/download/1.7.2/GTTweaker-1.7.10-1.7.2.jar			2020/04/11 21:42
 mods\HardcoreDarkness-MC1.7.10-1.7.jar			https://media.forgecdn.net/files/2262/352/HardcoreDarkness-MC1.7.10-1.7.jar								2020/04/11 21:42
 mods\HelpFixer-1.0.7.jar				https://media.forgecdn.net/files/2223/813/HelpFixer-1.0.7.jar										2020/04/11 21:42
@@ -101,7 +101,7 @@ mods\RTG-1.7.10-1.1.1.7.jar				https://media.forgecdn.net/files/2521/557/RTG-1.7
 mods\SonarCore-1.7.10-1.1.3.jar				https://media.forgecdn.net/files/2306/173/SonarCore-1.7.10-1.1.3.jar									2020/04/11 21:42
 mods\Streams-1.7.10-0.3.4.jar				https://media.forgecdn.net/files/2566/220/Streams-1.7.10-0.3.4.jar									2020/04/11 21:42
 mods\TConstruct-1.7.10-1.8.8.build991.jar		https://media.forgecdn.net/files/2277/12/TConstruct-1.7.10-1.8.8.build991.jar								2020/04/11 21:42
-mods\TGregworks-1.7.10-1.0.18.jar			https://files.vexatos.com/TGregworks/TGregworks-1.7.10-1.0.18.jar									2020/04/11 21:42
+mods\TGregworks-1.7.10-1.0.18.jar			https://dl.dropboxusercontent.com/s/ciupuevbco3a42u/TGregworks-1.7.10-1.0.18.jar							2020/04/11 21:42
 mods\TiCTooltips-mc1.7.10-1.2.5.jar			https://media.forgecdn.net/files/2246/472/TiCTooltips-mc1.7.10-1.2.5.jar								2020/04/11 21:42
 mods\Waila-1.5.10_1.7.10.jar				https://media.forgecdn.net/files/2230/518/Waila-1.5.10_1.7.10.jar									2020/04/11 21:42
 mods\WAILA-features-1.7.10-0.1.0.jar			https://media.forgecdn.net/files/2263/163/WAILA-features-1.7.10-0.1.0.jar								2020/04/11 21:42
