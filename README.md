@@ -4,6 +4,7 @@
 as the mod selection is not completely done jet, there might be drastic changes to them in the future, although the progression system will mostly stay the same.
 
 Please read the changelog carefully to see if important parts of your base will break before updating!
+to Update, just use the Update tool provided in the release section
 
 ## Credit for all mods go to their respective owners.
 
