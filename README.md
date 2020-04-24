@@ -4,6 +4,7 @@
 as the mod selection is not completely done jet, there might be drastic changes to them in the future, although the progression system will mostly stay the same.
 
 Please read the changelog carefully to see if important parts of your base will break before updating!
+to Update, just use the Update tool provided in the release section
 
 ## Credit for all mods go to their respective owners.
 
@@ -14,13 +15,12 @@ Please read the changelog carefully to see if important parts of your base will 
 - Aroma1997Core-1.7.10-1.0.2.16 : https://www.curseforge.com/minecraft/mc-mods/aroma1997core
 - Aroma1997s-Dimensional-World-1.7.10-1.1.0.1 : https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world
 - AromaBackup-1.7.10-0.1.0.0 : https://www.curseforge.com/minecraft/mc-mods/aromabackup
-- AsieLib-1.7.10-0.4.7 : https://wiki.vexatos.com/wiki:licensing
 - Baubles-1.7.10-1.0.1.10 : https://www.curseforge.com/minecraft/mc-mods/baubles
 - bdlib-1.9.4.109-mc1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bdlib
 - BetterBuildersWands-0.8.1-1.7.10r92+aec06c3 : https://www.curseforge.com/minecraft/mc-mods/better-builders-wands
 - biggerpacketsplz-upto1.7.10-1.2 : https://www.curseforge.com/minecraft/mc-mods/bigger-packets-please
 - bigtrees-0.2-1.7.10 : https://www.curseforge.com/minecraft/mc-mods/bigtrees
-- binnie-mods-1.7.10-2.0.22.7 : https://www.curseforge.com/minecraft/mc-mods/binnies-mods
+- binnies-mods-1.7.10-2.0.22.7 : https://www.curseforge.com/minecraft/mc-mods/binnies-mods
 - BiomesOPlenty-1.7.10-2.1.0.2308-universal : https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 - BrandonsCore-1.0.0.12 : https://www.curseforge.com/minecraft/mc-mods/brandons-core
 - Carpenters-Blocks-Mod-1.7.10 : https://www.carpentersblocks.com/
@@ -78,7 +78,7 @@ Please read the changelog carefully to see if important parts of your base will 
 - netherportalfix-mc1.7.10-1.1.0 : https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files
 - NoMoreRecipeConflict-0.3(1.7.10) : https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict
 - NotEnoughIDs-1.4.3.4 : https://www.curseforge.com/minecraft/mc-mods/notenoughids
-- NotEnoughItems-1.7.10-1.0.5.120-universal : https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1279956-chickenbones-mods
+- NotEnoughItems - GTNH-1.7.10-2.0.1 : https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh/files/all?filter-game-version=2020709689%3A4449
 - NotEnoughKeys-1.7.10-3.0.0b45-dev-universal : https://www.curseforge.com/minecraft/mc-mods/notenoughkeys
 - NotEnoughResources-1.7.10-0.1.0-128 : https://www.curseforge.com/minecraft/mc-mods/notenoughresources/files
 - OpenBlocks-1.7.10-1.6 : https://www.curseforge.com/minecraft/mc-mods/openblocks
@@ -89,7 +89,6 @@ Please read the changelog carefully to see if important parts of your base will 
 - Pam's+Get+all+the+Seeds+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-get-all-the-seeds
 - Pam's+Harvest+the+Nether+1.7.10a : https://www.curseforge.com/minecraft/mc-mods/pams-harvest-the-nether
 - Pam's+HarvestCraft+1.7.10Lb : https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft
-- PerfectSpawn-1.1 : https://www.curseforge.com/minecraft/mc-mods/perfect-spawn
 - Practical-Logistics-1.7.10-0.2.4 : https://github.com/SonarSonic/Practical-Logistics/wiki
 - ProjectRed-1.7.10-4.7.0pre12.95-Base : https://projectredwiki.com/wiki/Main_Page
 - ProjectRed-1.7.10-4.7.0pre12.95-Compat : https://projectredwiki.com/wiki/Main_Page
