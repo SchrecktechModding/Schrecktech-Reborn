@@ -95,7 +95,6 @@ mods\TConstruct-1.7.10-1.8.8.build991.jar		https://media.forgecdn.net/files/2277
 mods\TGregworks-1.7.10-1.0.18.jar			https://dl.dropboxusercontent.com/s/ciupuevbco3a42u/TGregworks-1.7.10-1.0.18.jar							2020/04/11 21:42
 mods\TiCTooltips-mc1.7.10-1.2.5.jar			https://media.forgecdn.net/files/2246/472/TiCTooltips-mc1.7.10-1.2.5.jar								2020/04/11 21:42
 mods\Waila-1.5.10_1.7.10.jar				https://media.forgecdn.net/files/2230/518/Waila-1.5.10_1.7.10.jar									2020/04/11 21:42
-mods\WAILA-features-1.7.10-0.1.0.jar			https://media.forgecdn.net/files/2263/163/WAILA-features-1.7.10-0.1.0.jar								2020/04/11 21:42
 mods\WarpDrive-1.7.10-1.4.2.-.jar			https://media.forgecdn.net/files/2578/306/WarpDrive-1.7.10-1.4.2.-.jar									2020/04/11 21:42
 mods\Wawla-1.0.5.120.jar				https://media.forgecdn.net/files/2298/772/Wawla-1.0.5.120.jar										2020/04/11 21:42
 mods\WirelessCraftingTerminal-1.7.10-rv3-1.8.7.9b.jar	https://media.forgecdn.net/files/2460/354/WirelessCraftingTerminal-1.7.10-rv3-1.8.7.9b.jar						2020/04/11 21:42
@@ -214,8 +213,6 @@ config\AppliedEnergistics2\CustomRecipes.cfg		https://raw.githubusercontent.com/
 config\AppliedEnergistics2\Facades.cfg			https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/AppliedEnergistics2/Facades.cfg			2020/04/11 21:42
 config\AppliedEnergistics2\VersionChecker.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/AppliedEnergistics2/VersionChecker.cfg		2020/04/11 21:42
 config\AppliedEnergistics2\extracells.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/AppliedEnergistics2/extracells.cfg		2020/04/11 21:42
-
-config\CustomMainMenu\mainmenu.json	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/CustomMainMenu/mainmenu.json	2020/04/11 21:42
 
 config\EnhancedPortals\config.cfg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/EnhancedPortals/config.cfg	2020/04/11 21:42
 
@@ -487,11 +484,8 @@ config\splash.properties		https://raw.githubusercontent.com/SchrecktechModding/S
 config\startingInventory.txt		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/startingInventory.txt		2020/04/11 21:42
 config\wailafeatures.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/config/wailafeatures.cfg			2020/04/11 21:42
 
-1213309934	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/1213309934	2020/04/11 21:42
 GregTech.cfg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/GregTech.cfg	2020/04/11 21:42
 GregTech.lang	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/GregTech.lang	2020/04/11 21:42
-TimeUsage.txt	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/TimeUsage.txt	2020/04/11 21:42
-gates.txt	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/gates.txt	2020/04/11 21:42
 settings.rtg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/settings.rtg	2020/04/11 21:42
 
 
