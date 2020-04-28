@@ -32,7 +32,7 @@ mods\coroutil-1.7.10-1.1.6.jar				https://media.forgecdn.net/files/2388/794/coro
 mods\craftingtweaks-mc1.7.10-1.0.88.jar			https://media.forgecdn.net/files/2457/94/craftingtweaks-mc1.7.10-1.0.88.jar								2020/04/11 21:42
 mods\CraftTweaker-1.7.10-3.1.0-legacy.jar		https://media.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar								2020/04/11 21:42
 mods\CustomMainMenu-MC1.7.10-1.9.2.jar			https://media.forgecdn.net/files/2264/779/CustomMainMenu-MC1.7.10-1.9.2.jar								2020/04/11 21:42
-mods\Draconic-Evolution-1.7.10-1.0.2h.jar		https://media.forgecdn.net/files/2313/451/Draconic-Evolution-1.7.10-1.0.2h.jar								2020/04/11 21:42
+mods\Draconic-Evolution-1.7.10-1.0.2h.jar		https://github.com/SchrecktechModding/Draconic-Evolution_Schrecktech_Edition/releases/download/1.0.2sch/Draconic-Evolution-Schrecktech-Reborn.-Edition-1.7.10-1.0.2sch.jar								2020/04/28 09:57
 mods\EnchantingPlus-1.7.10-3.0.2-d.jar			https://media.forgecdn.net/files/2218/324/EnchantingPlus-1.7.10-3.0.2-d.jar								2020/04/11 21:42
 mods\EnhancedPortals_1.7.10-universal-3.0.12.jar	https://media.forgecdn.net/files/2242/378/EnhancedPortals_1.7.10-universal-3.0.12.jar							2020/04/11 21:42
 mods\externaltweaker-1.7.10-0.3.jar			https://media.forgecdn.net/files/2452/853/externaltweaker-1.7.10-0.3.jar								2020/04/11 21:42
