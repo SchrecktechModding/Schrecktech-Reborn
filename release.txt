@@ -425,7 +425,6 @@ config\ChiselTones.cfg			https://raw.githubusercontent.com/SchrecktechModding/Sc
 config\CodeChickenCore.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/CodeChickenCore.cfg		2020/04/11 21:42
 config\CoroUtil.cfg			https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/CoroUtil.cfg			2020/04/11 21:42
 config\CoroUtil_DynamicDifficulty.cfg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/CoroUtil_DynamicDifficulty.cfg	2020/04/11 21:42
-config\DraconicEvolution.Balance.cfg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/DraconicEvolution.Balance.cfg	2020/04/11 21:42
 config\DraconicEvolution.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/DraconicEvolution.cfg		2020/04/11 21:42
 config\ExtraTiC.cfg			https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/ExtraTiC.cfg			2020/04/11 21:42
 config\ExtraUtilities.cfg		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Client/config/ExtraUtilities.cfg		2020/04/11 21:42
