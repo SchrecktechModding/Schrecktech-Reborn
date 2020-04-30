@@ -488,8 +488,6 @@ GregTech.cfg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Re
 GregTech.lang	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/GregTech.lang	2020/04/11 21:42
 settings.rtg	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/settings.rtg	2020/04/11 21:42
 
-
-
 # ZenScripts
 
 scripts\AppliedEnergisticsBalancing.zs		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/scripts/AppliedEnergisticsBalancing.zs	2020/04/11 21:42
@@ -500,3 +498,4 @@ scripts\Pam'sIntegration.zs			https://raw.githubusercontent.com/SchrecktechModdi
 scripts\PracticalLogisticsIntegration.zs	https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/scripts/PracticalLogisticsIntegration.zs	2020/04/11 21:42
 scripts\TinkersCompat.zs			https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/scripts/TinkersCompat.zs			2020/04/11 21:42
 scripts\enhancedPortalsIntegration.zs		https://raw.githubusercontent.com/SchrecktechModding/Schrecktech-Reborn/Server/scripts/enhancedPortalsIntegration.zs	2020/04/11 21:42
+
