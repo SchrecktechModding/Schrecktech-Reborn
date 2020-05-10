@@ -86,7 +86,6 @@ mods\p455w0rdslib-1.7.10-1.0.4.jar			https://media.forgecdn.net/files/2359/471/p
 mods\Pam's+Get+all+the+Seeds+1.7.10a.jar		https://media.forgecdn.net/files/2245/851/Pam%27s+Get+all+the+Seeds+1.7.10a.jar								2020/04/11 21:42
 mods\Pam's+Harvest+the+Nether+1.7.10a.jar		https://media.forgecdn.net/files/2241/397/Pam%27s+Harvest+the+Nether+1.7.10a.jar							2020/04/11 21:42
 mods\Pam's+HarvestCraft+1.7.10Lb.jar			https://media.forgecdn.net/files/2270/206/Pam%27s+HarvestCraft+1.7.10Lb.jar								2020/04/11 21:42
-mods\PerfectSpawn-1.1.jar				https://media.forgecdn.net/files/2212/916/PerfectSpawn-1.1.jar										2020/04/11 21:42
 mods\Practical-Logistics-1.7.10-0.2.4.jar		https://media.forgecdn.net/files/2306/263/Practical-Logistics-1.7.10-0.2.4.jar								2020/04/11 21:42
 mods\ProjectRed-1.7.10-4.7.0pre12.95-Base.jar		https://media.forgecdn.net/files/2280/728/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar							2020/04/11 21:42
 mods\ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar		https://media.forgecdn.net/files/2280/736/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar							2020/04/11 21:42
