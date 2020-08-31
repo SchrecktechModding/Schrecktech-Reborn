@@ -44,7 +44,7 @@ mods\forestry_1.7.10-4.2.16.64.jar			https://media.forgecdn.net/files/2333/823/f
 mods\Framez-1.7.10-0.2-32-hotfix-universal.jar		https://media.forgecdn.net/files/2252/712/Framez-1.7.10-0.2-32-hotfix-universal.jar							2020/04/11 21:42
 mods\GlobalGameRules-1.0.jar				https://media.forgecdn.net/files/2226/680/GlobalGameRules-1.0.jar									2020/04/11 21:42
 mods\gregtech-5.09.32pre5.jar				https://dl.dropboxusercontent.com/s/ohqburjdcsjvlkk/gregtech-5.09.32pre5.jar								2020/04/11 21:42
-mods\GT-PlusPlus-1.7.05.42.jar				https://dl.dropboxusercontent.com/s/lhlvsnana19jkh8/GT-PlusPlus-1.7.05.42.jar								2020/09/01 00:55
+mods\GT-PlusPlus-1.7.05.42.jar				https://dl.dropboxusercontent.com/s/lhlvsnana19jkh8/GT-PlusPlus-1.7.05.42.jar								2020/09/01 01:03
 mods\GTTweaker-1.7.10-1.7.2.jar				https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon/releases/download/1.7.2/GTTweaker-1.7.10-1.7.2.jar			2020/04/11 21:42
 mods\HardcoreDarkness-MC1.7.10-1.7.jar			https://media.forgecdn.net/files/2262/352/HardcoreDarkness-MC1.7.10-1.7.jar								2020/04/11 21:42
 mods\HelpFixer-1.0.7.jar				https://media.forgecdn.net/files/2223/813/HelpFixer-1.0.7.jar										2020/04/11 21:42
